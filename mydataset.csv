@@ -1,0 +1,1000 @@
+Name,LastName,Age,Consumption,Activity timing,Places frequented,Interest
+Oumaima,Jelassi,17,Produits cosmetiques,Matin:8h-10h,Cafe:Mio mondo,Peinture
+Salem,Zairi,24,Lunettes de soleil,Apres-midi:12h-15h,Restaurant:La Tavolata,Fashion
+Walid,Khaldi,60,Notebook,Matin:10h-12h,Cafe:Casa del gelato,Musique
+Montassar,Bondka,42,Cigarette électronique,Soir:22h-00h,Salle de jeux:Gamers Club,Developpement personnel
+Soumaya,Guesmi,29,Notebook,Matin:8h-10h,Cinema:Le Colisée,Politique
+Amina,Maatoug,40,Notebook,Apres-midi:12h-15h,Parc:National Boukornine,Politique
+Ala,Dridi,38,T-shirt,Matin:8h-10h,Bibliotheque:Publique El Ghazela,Cuisiner
+Soumaya,Gamoudi,56,Lunettes de soleil,Apres-midi:15h-18h,Boutiques,Skydiving
+Ons,Belhaj,52,Notebook,Apres-midi:15h-18h,Cafe:Casa del gelato,Hiking
+Taha,Zairi,49,Jeux video,Matin:10h-12h,Hotel:Hotel Du Parc,Volontariat
+Soumaya,Mejri,32,Jeux video,Apres-midi:12h-15h,Bar:Le duplex,Dance oriental
+Mostfa,Slim,32,Casque,Soir:18h-22h,Bar:Yuka,Volontariat
+Nahla,Ben Youssef,26,Articles décoratifs,Apres-midi:15h-18h,Restaurant:Dar Fatma,Gaming
+Chaima,Tawfik,37,Cigarette électronique,Apres-midi:15h-18h,Cafe:Brooklyn,Cuisiner
+Jaafar,Naouali,19,Notebook,Soir:22h-00h,Cafe:High Square,Cuisiner
+Heni,Gader,29,Articles décoratifs,Matin:8h-10h,Marché central,Cinema
+Adam,Smitri,29,Cigarettes,Apres-midi:15h-18h,Cafe:Twins,Politique
+Adam,Ben Youssef,28,Parfum,Apres-midi:12h-15h,Cinema:Amicar Hannibal,Astronomie
+Ilyes,Cherif,53,Livre:Roman,Soir:18h-22h,Restaurant:THE FIRST,Dance classique
+Soumaya,Tawfik,57,Livre:Roman,Soir:18h-22h,Aereport,Voyager
+Mostfa,Smitri,51,Boisson:Soda,Apres-midi:12h-15h,Aereport,Cuisiner
+Mostfa,Dridi,44,Tickets film,Soir:18h-22h,Boutiques,Lecture
+Mostfa,Jelassi,41,T-shirt,Matin:8h-10h,Restaurant:La Tavolata,Cuisiner
+Ali,Ben Marzouk,20,Parfum,Apres-midi:15h-18h,Bibliotheque:Publique Bardo,Musique
+Mostfa,Guenenna,26,Boisson:alcool,Matin:10h-12h,Hotel:Marina palace,Fashion
+Asma,Hedi,24,Casque,Apres-midi:12h-15h,Theatre:Theatre municipal de Tunis,Volontariat
+Amina,Sferi,53,Montre,Matin:8h-10h,Association:Croissant Rouge,Developpement personnel
+Mostfa,Ibrahim,28,Tickets match,Apres-midi:12h-15h,Cinema:ABC,Fashion
+Foued,Hasnaoui,46,Cigarettes,Apres-midi:12h-15h,Hotel:El Mouradi,Musique
+Foued,Guesmi,26,T-shirt,Matin:8h-10h,Cafe:Mio mondo,Dance oriental
+Salem,Khaldi,43,Montre,Apres-midi:15h-18h,Le Bowling Lac,Lecture
+Ala,Hasnaoui,33,Cigarettes,Apres-midi:15h-18h,Cafe:Evasion,Skydiving
+Saif,Abid,24,Basket,Matin:8h-10h,Parc:Sidi Bousaid,Dance classique
+Farah,Abid,30,Boisson:Soda,Soir:18h-22h,Restaurant:La Palette,Volontariat
+Chaher,Slim,33,T-shirt,Matin:8h-10h,Restaurant:Dar Fatma,Politique
+Amin,Maatoug,30,Notebook,Soir:18h-22h,Cafe:Brooklyn,Fashion
+Heni,Mejri,48,Jeux video,Apres-midi:15h-18h,Association:Croissant Rouge,Volontariat
+Asma,Bondka,31,Produits cosmetiques,Apres-midi:15h-18h,Restaurant:THE FIRST,Football
+Iheb,Gader,40,Cigarettes,Apres-midi:15h-18h,Cafe:Red Light,Politique
+Soumaya,Smitri,49,Parfum,Matin:8h-10h,Restaurant:Dar Fatma,Hiking
+Houssem,Hasnaoui,24,Montre,Matin:10h-12h,Le Bowling Lac,Hiking
+Safa,Guenenna,47,Tickets match,Matin:8h-10h,Restaurant:THE FIRST,Skydiving
+Asma,Ben Guiza,37,Cigarette électronique,Matin:8h-10h,Theatre:El Teatro,Peinture
+Ahmed,Krichen,49,Cigarette électronique,Soir:22h-00h,Boutiques,Voyager
+Amin,Chakroun,22,Montre,Apres-midi:15h-18h,Stade:Rades,Hiking
+Amin,Salah,43,Casque,Soir:18h-22h,Bibliotheque:Publique El Ghazela,Lecture
+Ibtissem,Cherif,21,Articles décoratifs,Soir:18h-22h,Cinema:ABC,Voyager
+Chaima,Maatoug,35,Articles décoratifs,Matin:8h-10h,Cafe:Brooklyn,Voyager
+Amin,Gamoudi,47,Lunettes de soleil,Soir:22h-00h,Cafe:Little Sarrajine,Dance oriental
+Ibtissem,Ridha,47,Casque,Soir:18h-22h,Le Bowling Lac,Dance classique
+Samir,Ben Marzouk,21,Basket,Apres-midi:15h-18h,Hotel:El Mouradi,Politique
+Gaith,Hasnaoui,33,Livre:Roman,Soir:22h-00h,Marché central,Fashion
+Ala,Zairi,51,Produits cosmetiques,Matin:8h-10h,Cafe:Casa del gelato,Developpement personnel
+Samir,Maiza,39,Produits cosmetiques,Matin:10h-12h,Cafe:Evasion,Photographie
+Nahla,Guenenna,56,Articles décoratifs,Soir:18h-22h,Bibliotheque:Publique Bardo,Fashion
+Nour,Gamoudi,18,Jeux video,Soir:22h-00h,Salle de jeux:Gamers Club,Astronomie
+Heni,Krichen,54,Boisson:alcool,Matin:8h-10h,Club:Bibliophiles tunisiens,Jardinage
+Adam,Abid,59,Notebook,Apres-midi:12h-15h,Restaurant:La Palette,Jardinage
+Soumaya,Hedi,39,Boisson:Soda,Soir:22h-00h,Cafe:Casa del gelato,Cinema
+Mostfa,Zairi,34,Tickets film,Apres-midi:12h-15h,Restaurant:The Bamboo,Cinema
+Aida,Chebbi,43,Cigarettes,Apres-midi:12h-15h,Le Bowling Lac,Developpement personnel
+Sihem,Ben Guiza,39,Articles décoratifs,Apres-midi:15h-18h,Cafe:Twins,Lecture
+Mohamed,Njima,23,Livre:Roman,Soir:18h-22h,Cafe:Evasion,Politique
+Mohamed,Cherif,26,Basket,Matin:10h-12h,Hotel:El Mouradi,Dance oriental
+Chaher,Tawfik,31,T-shirt,Soir:22h-00h,Restaurant:La Tavolata,Photographie
+Amina,Ben Youssef,44,Articles décoratifs,Matin:8h-10h,Bar:Le duplex,Photographie
+Amina,Maiza,65,Notebook,Apres-midi:12h-15h,Bar:Yuka,Dance oriental
+Aymen,Jelassi,35,Montre,Apres-midi:15h-18h,Parc:Urbain Ennahli,Cinema
+Farah,Ridha,47,Cigarette électronique,Soir:22h-00h,Cafe:High Square,Volontariat
+Chaima,Smitri,31,Cigarette électronique,Matin:10h-12h,Cafe:High Square,Voyager
+Asma,Bondka,44,Montre,Apres-midi:12h-15h,Cafe:Evasion,Gaming
+Iheb,Slim,49,Cigarettes,Apres-midi:12h-15h,Restaurant:Dar Fatma,Cuisiner
+Samir,Smitri,24,Montre,Matin:8h-10h,Cafe:Moustache,Fashion
+Oumaima,Njima,63,Parfum,Soir:18h-22h,Boutiques,Fashion
+Farah,Chebbi,37,Jeux video,Soir:22h-00h,Restaurant:La Palette,Voyager
+Safa,Abid,24,Tickets match,Apres-midi:12h-15h,Bar:Le Carpe Diem,Gaming
+Adam,Cherif,55,Montre,Matin:10h-12h,Cafe:Evasion,Cuisiner
+Sihem,Gader,30,Articles décoratifs,Matin:8h-10h,Restaurant:La Palette,Dance classique
+Nahla,Naouali,54,Fast food,Soir:18h-22h,Cinema:Amicar Hannibal,Astronomie
+Nour,Khaldi,26,Boisson:alcool,Soir:18h-22h,Club:Bibliophiles tunisiens,Fashion
+Samir,Ibrahim,27,Casque,Matin:8h-10h,Hotel:Hotel Du Parc,Politique
+Nahla,Ghorbel,50,Tickets match,Matin:10h-12h,Club:Bibliophiles tunisiens,Cinema
+Houda,Smitri,39,Livre:Roman,Apres-midi:12h-15h,Hotel:Marina palace,Hiking
+Adam,Slim,53,Parfum,Soir:18h-22h,Cafe:Brooklyn,Politique
+Iheb,Gader,38,Tickets film,Matin:10h-12h,Parc:National Boukornine,Voyager
+Chaher,Khaldi,41,Jeux video,Matin:10h-12h,Le Bowling Lac,Dance classique
+Salem,Tawfik,35,T-shirt,Soir:18h-22h,Salle de jeux:Gamers Club,Volontariat
+Soumaya,Gamoudi,60,Livre:Roman,Apres-midi:12h-15h,Bar:Le duplex,Skydiving
+Adam,Ben Youssef,49,Articles décoratifs,Matin:10h-12h,Theatre:El Teatro,Fashion
+Nahla,Slim,52,Articles décoratifs,Matin:10h-12h,Bar:Le Carpe Diem,Cuisiner
+Aymen,Guesmi,21,T-shirt,Matin:10h-12h,Aereport,Jardinage
+Walid,Salah,60,Sac à dos,Apres-midi:15h-18h,Boutiques,Developpement personnel
+Amal,Gader,37,Tickets film,Apres-midi:12h-15h,Hopital:mélitaire,Skydiving
+Safa,Abid,44,T-shirt,Apres-midi:12h-15h,Restaurant:La Tavolata,Volontariat
+Zaineb,Chebbi,27,Sac à dos,Apres-midi:12h-15h,Cafe:Red Light,Cinema
+Amina,Belhaj,41,Tickets film,Matin:10h-12h,Hopital:mélitaire,Skydiving
+Walid,Snoussi,65,Boisson:alcool,Matin:8h-10h,Cafe:Mio mondo,Hiking
+Amina,Ben Guiza,18,Cigarette électronique,Matin:8h-10h,Cafe:High Square,Hiking
+Dhia,Khaldi,63,Tickets match,Soir:18h-22h,Cinema:ABC,Dance classique
+Mohamed,Krichen,21,Fast food,Matin:10h-12h,Parc:Sidi Bousaid,Dance oriental
+Ons,Khaldi,38,T-shirt,Matin:8h-10h,Parc:Urbain Ennahli,Astronomie
+Chaher,Ibrahim,31,Boisson:alcool,Soir:18h-22h,Hopital:mélitaire,Cinema
+Ons,Atay,50,Casque,Apres-midi:15h-18h,Cafe:Little Sarrajine,Astronomie
+Gaith,Tawfik,25,Lunettes de soleil,Soir:22h-00h,Bar:Le duplex,Musique
+Jaafar,Snoussi,20,Tickets film,Matin:8h-10h,Restaurant:La Palette,Cuisiner
+Nahla,Bondka,62,Basket,Soir:22h-00h,Cinema:Amicar Hannibal,Volontariat
+Amin,Snoussi,53,Boisson:alcool,Soir:22h-00h,Hotel:Hotel Du Parc,Musique
+Ala,Ben Guiza,47,Basket,Apres-midi:15h-18h,Parc:Urbain Ennahli,Hiking
+Saif,Khaldi,30,Casque,Soir:18h-22h,Cafe:Brooklyn,Jardinage
+Ala,Snoussi,45,Montre,Matin:10h-12h,Restaurant:La Tavolata,Volontariat
+Amin,Naouali,26,Tickets film,Apres-midi:15h-18h,Salle de jeux:Gamers Club,Peinture
+Samir,Naouali,36,Sac à dos,Soir:22h-00h,Cafe:Cubana Latino,Hiking
+Dhia,Chakroun,46,Livre:Roman,Soir:18h-22h,Restaurant:Lido,Photographie
+Akrem,Guesmi,31,Produits cosmetiques,Apres-midi:12h-15h,Cafe:Twins,Peinture
+Aymen,Ben Guiza,47,Tickets match,Matin:10h-12h,Parc:Sidi Bousaid,Jardinage
+Gaith,Ibrahim,56,Jeux video,Apres-midi:15h-18h,Parc:National Boukornine,Gaming
+Saif,Belhaj,26,Notebook,Soir:22h-00h,Theatre:El Teatro,Peinture
+Oussama,Chakroun,54,Boisson:Soda,Matin:8h-10h,Marché central,Cinema
+Samir,Slim,29,Articles décoratifs,Soir:18h-22h,Cafe:Casa del gelato,Photographie
+Ilyes,Dammak,60,Boisson:Soda,Soir:22h-00h,Cafe:Cubana Latino,Musique
+Asma,Ben Guiza,62,Boisson:alcool,Matin:8h-10h,Restaurant:The Bamboo,Photographie
+Taha,Gader,24,Parfum,Apres-midi:12h-15h,Bibliotheque:Publique Bardo,Cinema
+Ali,Smitri,63,Tickets film,Soir:18h-22h,Cafe:Mio mondo,Politique
+Aymen,Gader,48,Livre:Roman,Matin:8h-10h,Cafe:Evasion,Fashion
+Ons,Atay,40,Cigarette électronique,Matin:8h-10h,Hotel:Marina palace,Volontariat
+Oumaima,Jelassi,40,Jeux video,Soir:18h-22h,Hotel:Marina palace,Cinema
+Dhia,Abid,45,Lunettes de soleil,Apres-midi:12h-15h,Cafe:Cubana Latino,Peinture
+Adam,Bondka,63,Lunettes de soleil,Matin:10h-12h,Bar:Le duplex,Politique
+Nahla,Chebbi,32,Parfum,Matin:8h-10h,Cafe:Mio mondo,Dance classique
+Heni,Sferi,30,Tickets match,Soir:22h-00h,Bar:Yuka,Musique
+Walid,Maiza,38,Notebook,Matin:8h-10h,Club:Bibliophiles tunisiens,Cinema
+Ilyes,Gader,55,Basket,Soir:18h-22h,Bibliotheque:Publique Bardo,Photographie
+Soumaya,Gader,59,Tickets film,Soir:22h-00h,Club:Bibliophiles tunisiens,Politique
+Aida,Zairi,18,Jeux video,Soir:22h-00h,Cafe:Little Sarrajine,Skydiving
+Amin,Dammak,36,Sac à dos,Soir:22h-00h,Cafe:Casa del gelato,Photographie
+Ala,Salah,40,Sac à dos,Matin:8h-10h,Musée:Bardo,Peinture
+Samir,Chebbi,30,Jeux video,Matin:8h-10h,Parc:Sidi Bousaid,Cinema
+Jaafar,Ghorbel,43,Cigarettes,Apres-midi:12h-15h,Bar:Le duplex,Lecture
+Jaafar,Ben Guiza,49,Parfum,Apres-midi:15h-18h,Cafe:Evasion,Photographie
+Safa,Belhaj,45,Articles décoratifs,Matin:8h-10h,Bar:Le Carpe Diem,Football
+Oussama,Maatoug,51,Boisson:alcool,Apres-midi:12h-15h,Cafe:Evasion,Fashion
+Gaith,Gamoudi,37,Fast food,Apres-midi:12h-15h,Cafe:Red Light,Astronomie
+Amina,Ridha,36,Fast food,Apres-midi:12h-15h,Cafe:Cubana Latino,Astronomie
+Jaafar,Ghorbel,65,Casque,Soir:18h-22h,Le Bowling Lac,Hiking
+Dhia,Zairi,22,Lunettes de soleil,Soir:18h-22h,Salle de jeux:Gamers Club,Politique
+Iheb,Smitri,28,Notebook,Apres-midi:12h-15h,Cafe:Casa del gelato,Peinture
+Adam,Salah,47,Tickets film,Apres-midi:15h-18h,Cafe:High Square,Skydiving
+Chaima,Ibrahim,25,Sac à dos,Soir:22h-00h,Hotel:El Mouradi,Hiking
+Taha,Salah,18,Produits cosmetiques,Matin:10h-12h,Cafe:Twins,Politique
+Ilyes,Hasnaoui,18,Cigarettes,Apres-midi:15h-18h,Cafe:Twins,Dance classique
+Samir,Jelassi,45,Cigarettes,Apres-midi:12h-15h,Cafe:Red Light,Fashion
+Houssem,Hasnaoui,27,Tickets film,Soir:22h-00h,Theatre:El Teatro,Musique
+Walid,Khaldi,46,Lunettes de soleil,Soir:22h-00h,Bar:Le Carpe Diem,Peinture
+Amal,Ridha,60,Articles décoratifs,Matin:10h-12h,Boutiques,Volontariat
+Iheb,Gamoudi,55,Lunettes de soleil,Apres-midi:15h-18h,Aereport,Gaming
+Houda,Abid,53,Sac à dos,Matin:10h-12h,Boutiques,Jardinage
+Nour,Abid,61,Fast food,Apres-midi:15h-18h,Restaurant:La Tavolata,Volontariat
+Adam,Njima,22,Tickets match,Soir:18h-22h,Salle de jeux:Gamers Club,Politique
+Houssem,Abid,30,Parfum,Matin:8h-10h,Aereport,Lecture
+Sihem,Chakroun,47,Livre:Roman,Apres-midi:12h-15h,Restaurant:La Tavolata,Dance classique
+Amina,Gamoudi,48,Boisson:alcool,Matin:8h-10h,Musée:Bardo,Dance classique
+Akrem,Ben Guiza,45,Tickets match,Soir:22h-00h,Cinema:Amicar Hannibal,Lecture
+Walid,Ben Marzouk,60,Tickets match,Matin:8h-10h,Parc:National Boukornine,Dance oriental
+Ala,Mejri,46,Lunettes de soleil,Soir:22h-00h,Cafe:Moustache,Jardinage
+Amin,Maatoug,41,Cigarettes,Apres-midi:15h-18h,Association:Croissant Rouge,Lecture
+Ons,Salah,35,Parfum,Soir:18h-22h,Restaurant:The Bamboo,Voyager
+Aida,Ghorbel,41,Basket,Apres-midi:12h-15h,Association:Croissant Rouge,Dance oriental
+Safa,Njima,63,Tickets match,Soir:18h-22h,Cafe:Cubana Latino,Fashion
+Ons,Ibrahim,51,Lunettes de soleil,Matin:8h-10h,Parc:Sidi Bousaid,Football
+Zaineb,Ben Guiza,54,Produits cosmetiques,Apres-midi:12h-15h,Restaurant:La Palette,Politique
+Ali,Ben Marzouk,55,Notebook,Soir:18h-22h,Bibliotheque:Publique Bardo,Dance oriental
+Oumaima,Ridha,17,Articles décoratifs,Apres-midi:15h-18h,Cafe:The Diesel,Cinema
+Mohamed,Hedi,44,Jeux video,Soir:22h-00h,Cafe:Red Light,Hiking
+Amal,Gamoudi,63,Casque,Apres-midi:12h-15h,Marché central,Skydiving
+Adam,Belhaj,63,Sac à dos,Soir:22h-00h,Hopital:mélitaire,Musique
+Gaith,Maatoug,43,Boisson:alcool,Matin:10h-12h,Hopital:mélitaire,Cuisiner
+Adam,Salah,62,Produits cosmetiques,Apres-midi:12h-15h,Salle de jeux:Gamers Club,Photographie
+Ibtissem,Abid,26,Tickets match,Soir:22h-00h,Cafe:High Square,Jardinage
+Amal,Hedi,32,Jeux video,Matin:10h-12h,Parc:Sidi Bousaid,Jardinage
+Amal,Ben Guiza,54,Parfum,Soir:22h-00h,Hopital:mélitaire,Lecture
+Chaher,Salah,23,Notebook,Matin:10h-12h,Salle de jeux:Gamers Club,Football
+Nour,Gader,55,Lunettes de soleil,Soir:22h-00h,Theatre:El Teatro,Dance oriental
+Houda,Hasnaoui,48,Basket,Soir:22h-00h,Cinema:Amicar Hannibal,Cinema
+Chaher,Cherif,24,Jeux video,Apres-midi:12h-15h,Salle de jeux:Gamers Club,Hiking
+Dhia,Hasnaoui,53,Tickets film,Soir:18h-22h,Hopital:mélitaire,Peinture
+Chaima,Chebbi,39,Casque,Apres-midi:12h-15h,Bar:Le Carpe Diem,Lecture
+Ala,Ghorbel,22,Jeux video,Matin:10h-12h,Bar:Le Carpe Diem,Football
+Gaith,Dridi,65,Boisson:alcool,Soir:18h-22h,Cafe:Twins,Peinture
+Mostfa,Abid,45,Montre,Matin:8h-10h,Bar:Le duplex,Dance classique
+Sihem,Dridi,38,Cigarette électronique,Matin:10h-12h,Restaurant:La Palette,Lecture
+Safa,Slim,54,Cigarettes,Soir:18h-22h,Hotel:Marina palace,Cuisiner
+Nahla,Maatoug,39,Fast food,Matin:8h-10h,Theatre:Theatre municipal de Tunis,Skydiving
+Taha,Salah,47,Cigarette électronique,Matin:8h-10h,Cafe:The Diesel,Volontariat
+Houda,Ghorbel,37,Livre:Roman,Soir:22h-00h,Stade:Rades,Politique
+Amal,Ben Youssef,46,Tickets match,Matin:10h-12h,Le Bowling Lac,Peinture
+Amina,Naouali,62,Fast food,Matin:8h-10h,Restaurant:THE FIRST,Musique
+Ilyes,Krichen,24,Lunettes de soleil,Apres-midi:12h-15h,Bar:Yuka,Football
+Saif,Tawfik,40,T-shirt,Apres-midi:12h-15h,Bar:Le duplex,Photographie
+Iheb,Hedi,19,Casque,Matin:8h-10h,Hotel:Marina palace,Voyager
+Chaima,Njima,38,Produits cosmetiques,Apres-midi:12h-15h,Cafe:Casa del gelato,Photographie
+Salem,Smitri,34,Tickets match,Soir:22h-00h,Theatre:El Teatro,Dance oriental
+Aida,Sferi,65,Tickets match,Apres-midi:15h-18h,Hotel:Hotel Du Parc,Dance oriental
+Saif,Ghorbel,63,Cigarettes,Apres-midi:12h-15h,Parc:Sidi Bousaid,Volontariat
+Houssem,Cherif,51,Lunettes de soleil,Soir:22h-00h,Hotel:Hotel Du Parc,Fashion
+Aida,Njima,32,T-shirt,Apres-midi:15h-18h,Stade:Rades,Lecture
+Ahmed,Belhaj,45,Parfum,Soir:18h-22h,Club:Bibliophiles tunisiens,Fashion
+Heni,Naouali,35,Boisson:alcool,Soir:22h-00h,Bar:Yuka,Dance classique
+Safa,Njima,54,Cigarette électronique,Matin:10h-12h,Cafe:Evasion,Voyager
+Gaith,Guesmi,54,Produits cosmetiques,Soir:22h-00h,Parc:Urbain Ennahli,Skydiving
+Amin,Zairi,64,Cigarettes,Matin:8h-10h,Parc:Urbain Ennahli,Hiking
+Aymen,Maiza,64,Boisson:alcool,Soir:18h-22h,Bibliotheque:Publique El Ghazela,Cuisiner
+Aymen,Chebbi,47,Boisson:alcool,Apres-midi:12h-15h,Restaurant:THE FIRST,Dance oriental
+Houda,Atay,30,Cigarettes,Soir:18h-22h,Hotel:Hotel Du Parc,Gaming
+Ilyes,Gader,51,Lunettes de soleil,Matin:8h-10h,Theatre:Theatre municipal de Tunis,Dance oriental
+Jaafar,Tawfik,25,Parfum,Apres-midi:12h-15h,Association:Croissant Rouge,Developpement personnel
+Gaith,Njima,60,Produits cosmetiques,Matin:10h-12h,Musée:Bardo,Volontariat
+Ons,Mejri,31,Montre,Apres-midi:12h-15h,Restaurant:La Palette,Dance classique
+Dhia,Guenenna,57,T-shirt,Apres-midi:12h-15h,Theatre:Theatre municipal de Tunis,Jardinage
+Jaafar,Krichen,56,Cigarettes,Apres-midi:12h-15h,Restaurant:The Bamboo,Football
+Foued,Atay,41,Casque,Soir:18h-22h,Cinema:Le Colisée,Photographie
+Ibtissem,Guesmi,61,Fast food,Matin:8h-10h,Bar:Le duplex,Cinema
+Oussama,Guesmi,54,Montre,Matin:10h-12h,Bibliotheque:Publique El Ghazela,Fashion
+Adam,Zairi,20,Fast food,Matin:8h-10h,Stade:Rades,Hiking
+Ibtissem,Krichen,41,Parfum,Matin:8h-10h,Hotel:Hotel Du Parc,Peinture
+Chaima,Gamoudi,25,T-shirt,Matin:8h-10h,Cafe:High Square,Astronomie
+Aida,Maatoug,38,Parfum,Matin:10h-12h,Bar:Yuka,Musique
+Nour,Salah,46,Produits cosmetiques,Apres-midi:12h-15h,Hotel:Hotel Du Parc,Photographie
+Heni,Gamoudi,32,Lunettes de soleil,Soir:18h-22h,Parc:Sidi Bousaid,Peinture
+Safa,Ibrahim,52,Jeux video,Soir:22h-00h,Cafe:The Diesel,Gaming
+Ali,Hasnaoui,18,Parfum,Apres-midi:12h-15h,Hopital:mélitaire,Politique
+Ilyes,Njima,45,Basket,Apres-midi:12h-15h,Cinema:Amicar Hannibal,Volontariat
+Farah,Zairi,40,Lunettes de soleil,Matin:8h-10h,Bar:Le Carpe Diem,Football
+Farah,Atay,65,T-shirt,Soir:18h-22h,Cinema:Amicar Hannibal,Cuisiner
+Ons,Atay,18,Articles décoratifs,Matin:10h-12h,Salle de jeux:Gamers Club,Astronomie
+Oumaima,Snoussi,31,Cigarette électronique,Apres-midi:12h-15h,Bar:Le Carpe Diem,Cuisiner
+Aida,Hedi,19,Boisson:Soda,Matin:8h-10h,Cafe:Evasion,Volontariat
+Mostfa,Naouali,38,Fast food,Matin:8h-10h,Cafe:The Diesel,Photographie
+Soumaya,Krichen,26,Sac à dos,Apres-midi:12h-15h,Marché central,Cinema
+Nour,Gamoudi,19,Montre,Matin:10h-12h,Theatre:Theatre municipal de Tunis,Dance classique
+Ons,Njima,33,Casque,Matin:8h-10h,Bibliotheque:Publique Bardo,Hiking
+Safa,Guesmi,19,Parfum,Soir:18h-22h,Salle de jeux:Gamers Club,Fashion
+Gaith,Zairi,25,Basket,Soir:18h-22h,Cafe:Mio mondo,Musique
+Houssem,Tawfik,29,Boisson:alcool,Apres-midi:15h-18h,Cafe:Cubana Latino,Football
+Aymen,Naouali,30,Parfum,Soir:18h-22h,Cafe:Red Light,Voyager
+Salem,Hasnaoui,39,Parfum,Apres-midi:15h-18h,Restaurant:Dar Fatma,Developpement personnel
+Jaafar,Krichen,49,Livre:Roman,Apres-midi:15h-18h,Hopital:mélitaire,Musique
+Amina,Guesmi,51,Cigarette électronique,Apres-midi:12h-15h,Cafe:Mio mondo,Photographie
+Oumaima,Guesmi,20,T-shirt,Apres-midi:15h-18h,Aereport,Cuisiner
+Salem,Atay,51,T-shirt,Soir:18h-22h,Cafe:The Diesel,Developpement personnel
+Jaafar,Dridi,32,Tickets match,Apres-midi:15h-18h,Bar:Yuka,Lecture
+Foued,Snoussi,36,Tickets film,Matin:10h-12h,Cafe:Moustache,Developpement personnel
+Safa,Jelassi,54,Montre,Matin:8h-10h,Parc:National Boukornine,Photographie
+Ahmed,Gader,21,T-shirt,Matin:10h-12h,Cafe:Little Sarrajine,Musique
+Asma,Dridi,18,Lunettes de soleil,Soir:18h-22h,Bibliotheque:Publique El Ghazela,Dance oriental
+Aymen,Hedi,33,Basket,Apres-midi:12h-15h,Restaurant:The Bamboo,Peinture
+Ons,Khaldi,20,Articles décoratifs,Soir:22h-00h,Bar:Le Carpe Diem,Photographie
+Ala,Gamoudi,17,Tickets film,Apres-midi:15h-18h,Association:Croissant Rouge,Hiking
+Ons,Abid,33,Fast food,Apres-midi:12h-15h,Theatre:El Teatro,Dance oriental
+Heni,Gader,21,Tickets match,Soir:18h-22h,Cafe:Red Light,Gaming
+Oussama,Belhaj,20,Casque,Soir:22h-00h,Salle de jeux:Gamers Club,Jardinage
+Chaher,Dridi,45,Jeux video,Soir:22h-00h,Parc:National Boukornine,Skydiving
+Saif,Salah,19,Cigarettes,Matin:10h-12h,Aereport,Politique
+Oumaima,Dammak,40,Parfum,Soir:22h-00h,Parc:Sidi Bousaid,Cuisiner
+Amal,Ibrahim,59,Casque,Matin:10h-12h,Club:Bibliophiles tunisiens,Lecture
+Adam,Smitri,20,Casque,Apres-midi:12h-15h,Theatre:El Teatro,Gaming
+Chaher,Naouali,18,Boisson:Soda,Soir:22h-00h,Parc:Sidi Bousaid,Dance classique
+Dhia,Zairi,33,Jeux video,Soir:22h-00h,Musée:Bardo,Cinema
+Sihem,Belhaj,45,Basket,Matin:8h-10h,Cafe:Moustache,Hiking
+Gaith,Smitri,17,Produits cosmetiques,Apres-midi:12h-15h,Aereport,Football
+Amina,Ibrahim,28,Notebook,Apres-midi:15h-18h,Musée:Bardo,Musique
+Ibtissem,Belhaj,37,Cigarette électronique,Matin:10h-12h,Aereport,Musique
+Ala,Hasnaoui,25,Tickets film,Apres-midi:15h-18h,Restaurant:THE FIRST,Astronomie
+Chaima,Zairi,30,Basket,Matin:8h-10h,Hopital:mélitaire,Cinema
+Taha,Chebbi,55,Lunettes de soleil,Matin:10h-12h,Cinema:Le Colisée,Lecture
+Dhia,Hedi,21,Cigarette électronique,Soir:22h-00h,Bibliotheque:Publique El Ghazela,Musique
+Nahla,Sferi,22,T-shirt,Matin:10h-12h,Marché central,Jardinage
+Jaafar,Dammak,59,Tickets film,Matin:10h-12h,Musée:Bardo,Jardinage
+Mostfa,Salah,29,Basket,Soir:18h-22h,Cafe:The Diesel,Gaming
+Houda,Gamoudi,17,Notebook,Matin:8h-10h,Cafe:Mio mondo,Hiking
+Aida,Smitri,43,Notebook,Soir:22h-00h,Restaurant:Lido,Football
+Oumaima,Maatoug,28,Cigarette électronique,Apres-midi:12h-15h,Cinema:Le Colisée,Photographie
+Aida,Bondka,28,Parfum,Apres-midi:12h-15h,Theatre:Theatre municipal de Tunis,Musique
+Aymen,Belhaj,55,Parfum,Soir:18h-22h,Cafe:Mio mondo,Hiking
+Nahla,Ben Youssef,28,T-shirt,Soir:22h-00h,Parc:Jardin Japonais,Peinture
+Farah,Slim,20,Jeux video,Soir:18h-22h,Hopital:mélitaire,Hiking
+Ahmed,Dridi,37,Basket,Soir:22h-00h,Restaurant:Dar Fatma,Volontariat
+Jaafar,Gamoudi,34,Cigarettes,Soir:22h-00h,Boutiques,Dance oriental
+Soumaya,Chebbi,37,Basket,Matin:8h-10h,Parc:Urbain Ennahli,Cuisiner
+Foued,Gamoudi,53,Tickets match,Matin:8h-10h,Bibliotheque:Publique El Ghazela,Photographie
+Salem,Maiza,50,Produits cosmetiques,Apres-midi:15h-18h,Hotel:Marina palace,Musique
+Ilyes,Bondka,36,Notebook,Matin:8h-10h,Musée:Bardo,Volontariat
+Ahmed,Bondka,35,Casque,Matin:10h-12h,Hopital:mélitaire,Gaming
+Nahla,Bondka,53,Sac à dos,Matin:8h-10h,Hotel:El Mouradi,Dance oriental
+Houda,Khaldi,42,Articles décoratifs,Soir:18h-22h,Cafe:Brooklyn,Developpement personnel
+Ons,Ibrahim,35,Tickets match,Soir:18h-22h,Bar:Yuka,Dance classique
+Houssem,Ridha,41,Jeux video,Matin:8h-10h,Cafe:Evasion,Peinture
+Ibtissem,Hasnaoui,28,Casque,Apres-midi:15h-18h,Restaurant:THE FIRST,Musique
+Chaher,Smitri,48,Livre:Roman,Soir:18h-22h,Musée:Bardo,Skydiving
+Chaher,Dammak,30,Lunettes de soleil,Matin:10h-12h,Parc:National Boukornine,Volontariat
+Soumaya,Zairi,17,Livre:Roman,Apres-midi:12h-15h,Bar:Le Carpe Diem,Musique
+Sihem,Abid,19,Basket,Matin:8h-10h,Cafe:High Square,Peinture
+Nour,Cherif,25,T-shirt,Matin:10h-12h,Stade:Rades,Lecture
+Sihem,Ghorbel,26,Produits cosmetiques,Matin:10h-12h,Le Bowling Lac,Volontariat
+Akrem,Naouali,49,Sac à dos,Matin:10h-12h,Le Bowling Lac,Dance classique
+Mohamed,Njima,29,Cigarettes,Soir:22h-00h,Hopital:mélitaire,Jardinage
+Samir,Atay,31,T-shirt,Apres-midi:12h-15h,Parc:Urbain Ennahli,Astronomie
+Chaher,Tawfik,58,Jeux video,Apres-midi:12h-15h,Restaurant:Lido,Developpement personnel
+Jaafar,Snoussi,17,Sac à dos,Soir:18h-22h,Cafe:Little Sarrajine,Cuisiner
+Akrem,Sferi,38,Notebook,Matin:10h-12h,Theatre:Theatre municipal de Tunis,Cinema
+Mohamed,Chakroun,43,Parfum,Apres-midi:15h-18h,Cafe:Cubana Latino,Skydiving
+Salem,Ibrahim,19,Jeux video,Matin:10h-12h,Restaurant:Dar Fatma,Politique
+Dhia,Dridi,17,Articles décoratifs,Apres-midi:15h-18h,Hotel:Marina palace,Dance oriental
+Salem,Hasnaoui,49,Livre:Roman,Matin:8h-10h,Theatre:El Teatro,Jardinage
+Ahmed,Ghorbel,42,Jeux video,Soir:18h-22h,Restaurant:Dar Fatma,Volontariat
+Houssem,Khaldi,24,Livre:Roman,Matin:10h-12h,Marché central,Peinture
+Adam,Cherif,29,Notebook,Matin:10h-12h,Restaurant:Lido,Cuisiner
+Oussama,Abid,23,Notebook,Soir:18h-22h,Bibliotheque:Publique Bardo,Gaming
+Heni,Khaldi,25,Cigarettes,Matin:10h-12h,Bibliotheque:Publique El Ghazela,Fashion
+Farah,Cherif,32,Articles décoratifs,Apres-midi:15h-18h,Cafe:Cubana Latino,Dance classique
+Farah,Ben Youssef,53,Montre,Matin:8h-10h,Bibliotheque:Publique El Ghazela,Peinture
+Mohamed,Krichen,59,Fast food,Soir:18h-22h,Cinema:Le Colisée,Skydiving
+Foued,Ghorbel,25,Boisson:alcool,Soir:22h-00h,Cafe:The Diesel,Dance classique
+Adam,Maiza,43,Boisson:alcool,Apres-midi:12h-15h,Hotel:Hotel Du Parc,Skydiving
+Soumaya,Maiza,24,T-shirt,Soir:22h-00h,Bar:Le Carpe Diem,Hiking
+Oussama,Abid,39,Cigarette électronique,Soir:18h-22h,Restaurant:Dar Fatma,Astronomie
+Iheb,Guenenna,28,Articles décoratifs,Matin:10h-12h,Parc:Sidi Bousaid,Fashion
+Amin,Dammak,20,Cigarette électronique,Soir:18h-22h,Hotel:Hotel Du Parc,Jardinage
+Salem,Gader,52,Sac à dos,Matin:10h-12h,Parc:National Boukornine,Voyager
+Jaafar,Zairi,18,Montre,Apres-midi:12h-15h,Cafe:Evasion,Lecture
+Ons,Ibrahim,23,Boisson:Soda,Apres-midi:15h-18h,Bibliotheque:Publique Bardo,Fashion
+Oumaima,Naouali,31,Produits cosmetiques,Soir:22h-00h,Bibliotheque:Publique Bardo,Politique
+Nour,Maiza,49,Notebook,Apres-midi:15h-18h,Cafe:Cubana Latino,Jardinage
+Saif,Ghorbel,40,Casque,Matin:8h-10h,Cinema:ABC,Volontariat
+Ahmed,Hedi,22,Articles décoratifs,Apres-midi:15h-18h,Musée:Bardo,Hiking
+Oussama,Gader,49,Cigarette électronique,Soir:18h-22h,Restaurant:THE FIRST,Cinema
+Amin,Slim,31,T-shirt,Apres-midi:12h-15h,Boutiques,Cinema
+Jaafar,Zairi,43,Livre:Roman,Soir:18h-22h,Restaurant:Lido,Cinema
+Chaima,Ibrahim,23,Boisson:alcool,Matin:8h-10h,Restaurant:THE FIRST,Gaming
+Ala,Naouali,44,Notebook,Soir:18h-22h,Cafe:Mio mondo,Dance classique
+Ilyes,Zairi,59,Tickets film,Soir:18h-22h,Bar:Yuka,Gaming
+Houssem,Gader,52,Boisson:alcool,Soir:18h-22h,Hotel:Hotel Du Parc,Lecture
+Ons,Bondka,29,Boisson:Soda,Apres-midi:12h-15h,Marché central,Developpement personnel
+Ali,Gamoudi,27,Produits cosmetiques,Matin:10h-12h,Bar:Le Carpe Diem,Politique
+Zaineb,Ben Youssef,18,Produits cosmetiques,Soir:22h-00h,Cafe:Cubana Latino,Lecture
+Sihem,Snoussi,39,Produits cosmetiques,Matin:8h-10h,Cafe:Red Light,Photographie
+Dhia,Jelassi,49,Cigarettes,Soir:18h-22h,Cafe:Twins,Jardinage
+Amina,Maatoug,51,Tickets match,Matin:8h-10h,Club:Bibliophiles tunisiens,Astronomie
+Farah,Guesmi,20,Cigarettes,Apres-midi:12h-15h,Parc:Sidi Bousaid,Peinture
+Chaher,Krichen,28,Notebook,Soir:18h-22h,Cafe:Red Light,Fashion
+Oussama,Bondka,31,Fast food,Matin:8h-10h,Cafe:Mio mondo,Peinture
+Ahmed,Maiza,64,Parfum,Apres-midi:15h-18h,Musée:Bardo,Astronomie
+Ibtissem,Maiza,37,Notebook,Apres-midi:12h-15h,Hotel:Marina palace,Developpement personnel
+Zaineb,Abid,46,Notebook,Soir:22h-00h,Marché central,Cuisiner
+Dhia,Ghorbel,54,Cigarette électronique,Apres-midi:12h-15h,Hopital:mélitaire,Musique
+Taha,Smitri,46,Lunettes de soleil,Soir:18h-22h,Restaurant:Lido,Peinture
+Nahla,Ben Marzouk,23,Livre:Roman,Apres-midi:12h-15h,Musée:Bardo,Lecture
+Dhia,Chebbi,48,Cigarette électronique,Apres-midi:15h-18h,Salle de jeux:Gamers Club,Skydiving
+Chaher,Ben Youssef,29,Tickets match,Apres-midi:15h-18h,Restaurant:The Bamboo,Jardinage
+Nahla,Tawfik,42,Fast food,Soir:18h-22h,Parc:National Boukornine,Politique
+Adam,Ben Marzouk,36,Livre:Roman,Soir:18h-22h,Salle de jeux:Gamers Club,Skydiving
+Aida,Ben Youssef,55,Livre:Roman,Soir:18h-22h,Cafe:The Diesel,Cinema
+Walid,Abid,65,Boisson:Soda,Soir:18h-22h,Hotel:El Mouradi,Volontariat
+Taha,Tawfik,55,Parfum,Apres-midi:12h-15h,Cafe:High Square,Astronomie
+Amin,Hedi,34,Livre:Roman,Soir:18h-22h,Cinema:Le Colisée,Developpement personnel
+Jaafar,Gader,65,Produits cosmetiques,Apres-midi:15h-18h,Restaurant:La Tavolata,Musique
+Samir,Bondka,26,Boisson:alcool,Matin:10h-12h,Boutiques,Voyager
+Ibtissem,Guenenna,51,Basket,Soir:22h-00h,Cafe:Cubana Latino,Voyager
+Aida,Atay,40,Cigarette électronique,Apres-midi:12h-15h,Cafe:Evasion,Fashion
+Ahmed,Ben Guiza,54,Montre,Apres-midi:15h-18h,Restaurant:The Bamboo,Hiking
+Jaafar,Sferi,57,Boisson:alcool,Soir:18h-22h,Musée:Bardo,Politique
+Aymen,Naouali,33,Tickets film,Apres-midi:12h-15h,Musée:Bardo,Skydiving
+Salem,Abid,23,Notebook,Matin:8h-10h,Restaurant:Lido,Gaming
+Nahla,Jelassi,61,Notebook,Matin:8h-10h,Restaurant:Dar Fatma,Cinema
+Ilyes,Krichen,51,Cigarettes,Matin:10h-12h,Restaurant:THE FIRST,Dance oriental
+Nahla,Maiza,31,Jeux video,Apres-midi:12h-15h,Cafe:Twins,Cinema
+Ilyes,Salah,29,Boisson:Soda,Matin:10h-12h,Cafe:Little Sarrajine,Developpement personnel
+Saif,Tawfik,49,Montre,Apres-midi:12h-15h,Cafe:High Square,Gaming
+Houda,Naouali,63,Casque,Matin:10h-12h,Stade:Rades,Skydiving
+Jaafar,Ben Marzouk,24,Fast food,Soir:22h-00h,Cafe:The Diesel,Hiking
+Mohamed,Ben Marzouk,44,Sac à dos,Matin:8h-10h,Stade:Rades,Photographie
+Soumaya,Krichen,46,Sac à dos,Matin:10h-12h,Stade:Rades,Musique
+Farah,Ridha,51,Produits cosmetiques,Apres-midi:15h-18h,Restaurant:Lido,Dance classique
+Sihem,Dridi,45,Casque,Soir:22h-00h,Hopital:mélitaire,Photographie
+Foued,Tawfik,62,Tickets film,Soir:22h-00h,Restaurant:La Palette,Dance classique
+Jaafar,Slim,35,Boisson:Soda,Matin:8h-10h,Cafe:Evasion,Photographie
+Ala,Guesmi,45,Montre,Soir:18h-22h,Boutiques,Photographie
+Sihem,Naouali,30,Cigarette électronique,Apres-midi:15h-18h,Cafe:Evasion,Football
+Zaineb,Tawfik,28,Livre:Roman,Soir:22h-00h,Cafe:Brooklyn,Voyager
+Amina,Njima,25,Basket,Apres-midi:12h-15h,Hotel:Marina palace,Cuisiner
+Asma,Ridha,35,Parfum,Apres-midi:12h-15h,Cafe:Brooklyn,Dance oriental
+Nour,Khaldi,42,Cigarettes,Apres-midi:15h-18h,Boutiques,Hiking
+Montassar,Ridha,52,Fast food,Matin:8h-10h,Association:Croissant Rouge,Volontariat
+Dhia,Dammak,45,Fast food,Matin:8h-10h,Cafe:Brooklyn,Hiking
+Walid,Snoussi,52,Articles décoratifs,Apres-midi:15h-18h,Cafe:Cubana Latino,Musique
+Ilyes,Hasnaoui,33,Cigarette électronique,Apres-midi:12h-15h,Musée:Bardo,Cuisiner
+Mohamed,Snoussi,54,Boisson:Soda,Matin:8h-10h,Aereport,Gaming
+Houssem,Ghorbel,48,Cigarette électronique,Apres-midi:12h-15h,Restaurant:The Bamboo,Cuisiner
+Iheb,Gamoudi,44,Boisson:alcool,Soir:18h-22h,Association:Croissant Rouge,Peinture
+Heni,Slim,25,Produits cosmetiques,Matin:10h-12h,Cinema:Amicar Hannibal,Football
+Sihem,Ben Marzouk,56,Cigarettes,Soir:22h-00h,Cinema:ABC,Peinture
+Jaafar,Cherif,28,Montre,Matin:10h-12h,Bibliotheque:Publique El Ghazela,Voyager
+Amal,Bondka,43,Tickets film,Apres-midi:12h-15h,Bibliotheque:Publique Bardo,Dance classique
+Amina,Ben Youssef,57,Jeux video,Soir:22h-00h,Cafe:Casa del gelato,Volontariat
+Asma,Ibrahim,52,Articles décoratifs,Soir:22h-00h,Hotel:El Mouradi,Peinture
+Soumaya,Ridha,55,Tickets film,Soir:18h-22h,Restaurant:La Tavolata,Football
+Iheb,Zairi,39,Casque,Soir:18h-22h,Parc:Jardin Japonais,Voyager
+Heni,Tawfik,62,Sac à dos,Matin:8h-10h,Hotel:Marina palace,Politique
+Taha,Dridi,65,Cigarette électronique,Soir:22h-00h,Parc:Sidi Bousaid,Politique
+Gaith,Smitri,52,Notebook,Apres-midi:15h-18h,Bar:Le Carpe Diem,Volontariat
+Oussama,Chebbi,30,Tickets match,Apres-midi:15h-18h,Salle de jeux:Gamers Club,Jardinage
+Aida,Hedi,52,Fast food,Matin:8h-10h,Theatre:El Teatro,Lecture
+Akrem,Krichen,41,Parfum,Apres-midi:15h-18h,Marché central,Politique
+Amina,Dridi,27,Tickets match,Apres-midi:12h-15h,Restaurant:The Bamboo,Politique
+Ons,Ghorbel,56,Produits cosmetiques,Matin:8h-10h,Cinema:Le Colisée,Politique
+Aymen,Snoussi,48,Basket,Matin:10h-12h,Salle de jeux:Gamers Club,Cinema
+Foued,Belhaj,22,Cigarettes,Matin:10h-12h,Hotel:Hotel Du Parc,Cinema
+Taha,Sferi,47,Articles décoratifs,Matin:8h-10h,Restaurant:La Palette,Astronomie
+Ibtissem,Ben Youssef,57,Jeux video,Soir:22h-00h,Parc:Urbain Ennahli,Jardinage
+Saif,Tawfik,46,Articles décoratifs,Soir:22h-00h,Hotel:El Mouradi,Fashion
+Mohamed,Sferi,47,Fast food,Apres-midi:15h-18h,Cafe:The Diesel,Skydiving
+Gaith,Zairi,48,Notebook,Matin:8h-10h,Cafe:Casa del gelato,Photographie
+Asma,Maiza,64,Boisson:Soda,Apres-midi:15h-18h,Cafe:Little Sarrajine,Photographie
+Iheb,Tawfik,63,Basket,Apres-midi:15h-18h,Cafe:High Square,Politique
+Walid,Zairi,37,Tickets film,Soir:22h-00h,Parc:Urbain Ennahli,Musique
+Zaineb,Ghorbel,59,Fast food,Apres-midi:15h-18h,Le Bowling Lac,Jardinage
+Ali,Atay,17,Sac à dos,Apres-midi:15h-18h,Cafe:Twins,Developpement personnel
+Mohamed,Bondka,54,Basket,Soir:18h-22h,Restaurant:La Tavolata,Politique
+Walid,Mejri,32,Sac à dos,Apres-midi:12h-15h,Bar:Le Carpe Diem,Volontariat
+Adam,Atay,35,Cigarettes,Matin:8h-10h,Hotel:Marina palace,Developpement personnel
+Nour,Salah,18,T-shirt,Matin:8h-10h,Restaurant:La Palette,Skydiving
+Akrem,Khaldi,63,Articles décoratifs,Matin:8h-10h,Cinema:Amicar Hannibal,Voyager
+Walid,Hasnaoui,52,Parfum,Matin:10h-12h,Boutiques,Football
+Aida,Njima,54,Notebook,Soir:18h-22h,Hotel:Hotel Du Parc,Dance classique
+Samir,Bondka,45,Parfum,Soir:22h-00h,Restaurant:THE FIRST,Politique
+Mohamed,Salah,42,Tickets match,Matin:10h-12h,Hopital:mélitaire,Musique
+Dhia,Ridha,44,Livre:Roman,Apres-midi:15h-18h,Parc:Jardin Japonais,Astronomie
+Asma,Chakroun,22,Cigarettes,Apres-midi:15h-18h,Musée:Bardo,Dance oriental
+Houda,Hasnaoui,65,Jeux video,Apres-midi:15h-18h,Cinema:Le Colisée,Cuisiner
+Aida,Belhaj,25,Lunettes de soleil,Apres-midi:12h-15h,Restaurant:Dar Fatma,Dance oriental
+Mohamed,Bondka,37,Montre,Apres-midi:12h-15h,Cafe:Red Light,Hiking
+Amin,Guesmi,33,Notebook,Soir:18h-22h,Cafe:Brooklyn,Gaming
+Oussama,Slim,64,Boisson:Soda,Matin:8h-10h,Restaurant:The Bamboo,Peinture
+Ibtissem,Sferi,46,Tickets film,Matin:8h-10h,Restaurant:La Tavolata,Jardinage
+Adam,Ben Marzouk,28,Casque,Matin:10h-12h,Cinema:Le Colisée,Fashion
+Walid,Tawfik,38,Sac à dos,Matin:10h-12h,Restaurant:Dar Fatma,Hiking
+Houssem,Jelassi,40,Livre:Roman,Matin:10h-12h,Parc:Sidi Bousaid,Fashion
+Oumaima,Guenenna,49,Cigarettes,Apres-midi:15h-18h,Cafe:The Diesel,Peinture
+Heni,Ben Guiza,52,Cigarettes,Matin:8h-10h,Aereport,Dance oriental
+Ilyes,Zairi,45,Jeux video,Matin:10h-12h,Cinema:ABC,Lecture
+Farah,Guesmi,39,Sac à dos,Apres-midi:12h-15h,Restaurant:La Palette,Fashion
+Nour,Tawfik,17,T-shirt,Soir:18h-22h,Restaurant:THE FIRST,Politique
+Dhia,Abid,23,Sac à dos,Apres-midi:15h-18h,Association:Croissant Rouge,Football
+Zaineb,Ibrahim,49,Casque,Soir:22h-00h,Restaurant:The Bamboo,Astronomie
+Dhia,Atay,30,Fast food,Apres-midi:12h-15h,Cafe:Cubana Latino,Jardinage
+Taha,Chakroun,33,Casque,Matin:10h-12h,Bibliotheque:Publique Bardo,Dance classique
+Heni,Gader,21,Tickets film,Apres-midi:15h-18h,Parc:Urbain Ennahli,Gaming
+Iheb,Ben Guiza,27,Fast food,Matin:10h-12h,Cinema:ABC,Astronomie
+Akrem,Dridi,31,Notebook,Matin:10h-12h,Parc:National Boukornine,Fashion
+Soumaya,Ibrahim,26,Tickets film,Matin:10h-12h,Theatre:El Teatro,Football
+Sihem,Maiza,43,Jeux video,Soir:22h-00h,Le Bowling Lac,Dance classique
+Chaima,Gamoudi,18,Cigarette électronique,Soir:18h-22h,Parc:National Boukornine,Skydiving
+Ons,Ben Guiza,45,Cigarette électronique,Apres-midi:12h-15h,Hotel:Marina palace,Volontariat
+Ali,Mejri,30,Parfum,Matin:8h-10h,Stade:Rades,Fashion
+Aymen,Belhaj,19,Montre,Soir:18h-22h,Restaurant:La Tavolata,Skydiving
+Safa,Sferi,37,Cigarette électronique,Apres-midi:12h-15h,Bar:Yuka,Dance oriental
+Asma,Bondka,28,Articles décoratifs,Matin:10h-12h,Parc:Jardin Japonais,Volontariat
+Ons,Ibrahim,55,Parfum,Matin:8h-10h,Bibliotheque:Publique Bardo,Fashion
+Akrem,Cherif,27,Montre,Apres-midi:12h-15h,Salle de jeux:Gamers Club,Fashion
+Ahmed,Tawfik,26,Tickets film,Soir:18h-22h,Bar:Yuka,Peinture
+Ali,Zairi,18,Tickets match,Matin:10h-12h,Cafe:The Diesel,Developpement personnel
+Amina,Ben Marzouk,22,Cigarettes,Soir:22h-00h,Club:Bibliophiles tunisiens,Jardinage
+Salem,Njima,54,Montre,Soir:22h-00h,Theatre:Theatre municipal de Tunis,Developpement personnel
+Ibtissem,Hedi,18,Lunettes de soleil,Soir:18h-22h,Cafe:Mio mondo,Dance oriental
+Foued,Naouali,38,Boisson:alcool,Matin:8h-10h,Cinema:Le Colisée,Astronomie
+Sihem,Zairi,48,Tickets film,Soir:22h-00h,Cafe:Cubana Latino,Football
+Saif,Smitri,39,Boisson:alcool,Matin:10h-12h,Cafe:Little Sarrajine,Dance classique
+Dhia,Chebbi,40,Sac à dos,Soir:18h-22h,Parc:Urbain Ennahli,Musique
+Farah,Ben Guiza,18,Tickets film,Soir:22h-00h,Cafe:Brooklyn,Peinture
+Nahla,Mejri,27,Montre,Matin:10h-12h,Cafe:Twins,Lecture
+Houda,Guesmi,17,Tickets match,Apres-midi:12h-15h,Restaurant:Dar Fatma,Politique
+Sihem,Slim,35,Cigarettes,Matin:10h-12h,Cafe:Mio mondo,Politique
+Iheb,Maiza,34,Sac à dos,Matin:8h-10h,Cafe:The Diesel,Astronomie
+Oussama,Salah,60,Lunettes de soleil,Matin:8h-10h,Restaurant:THE FIRST,Volontariat
+Akrem,Abid,54,Sac à dos,Soir:22h-00h,Cafe:Mio mondo,Voyager
+Aymen,Mejri,46,Tickets match,Matin:8h-10h,Restaurant:La Tavolata,Politique
+Akrem,Hasnaoui,26,Parfum,Apres-midi:12h-15h,Theatre:Theatre municipal de Tunis,Jardinage
+Ahmed,Salah,59,Boisson:Soda,Matin:8h-10h,Association:Croissant Rouge,Football
+Oumaima,Abid,28,Tickets match,Soir:22h-00h,Cafe:Brooklyn,Politique
+Sihem,Atay,65,Sac à dos,Matin:10h-12h,Theatre:El Teatro,Musique
+Foued,Ben Guiza,45,Lunettes de soleil,Matin:8h-10h,Cinema:Amicar Hannibal,Musique
+Nour,Dammak,52,Lunettes de soleil,Matin:8h-10h,Cafe:Mio mondo,Football
+Akrem,Ghorbel,23,Produits cosmetiques,Matin:8h-10h,Parc:National Boukornine,Volontariat
+Sihem,Belhaj,40,Cigarettes,Matin:8h-10h,Bar:Le Carpe Diem,Gaming
+Mohamed,Gader,23,Tickets film,Matin:8h-10h,Le Bowling Lac,Cuisiner
+Ibtissem,Ghorbel,42,Produits cosmetiques,Apres-midi:12h-15h,Restaurant:THE FIRST,Jardinage
+Iheb,Guenenna,34,Notebook,Soir:22h-00h,Bar:Yuka,Volontariat
+Taha,Mejri,41,Cigarette électronique,Soir:18h-22h,Parc:Jardin Japonais,Hiking
+Amal,Slim,38,Casque,Apres-midi:15h-18h,Le Bowling Lac,Politique
+Samir,Gader,55,Tickets match,Apres-midi:15h-18h,Stade:Rades,Volontariat
+Soumaya,Slim,27,Cigarettes,Matin:10h-12h,Cinema:ABC,Gaming
+Samir,Hedi,53,Produits cosmetiques,Matin:8h-10h,Bibliotheque:Publique Bardo,Gaming
+Mohamed,Gader,30,Tickets match,Soir:22h-00h,Restaurant:La Palette,Dance classique
+Dhia,Dammak,20,Livre:Roman,Matin:8h-10h,Marché central,Voyager
+Gaith,Bondka,44,Lunettes de soleil,Matin:10h-12h,Bar:Yuka,Fashion
+Ahmed,Abid,21,Tickets match,Apres-midi:12h-15h,Parc:Jardin Japonais,Dance classique
+Akrem,Jelassi,55,Articles décoratifs,Soir:22h-00h,Hopital:mélitaire,Musique
+Akrem,Hasnaoui,50,Boisson:alcool,Soir:18h-22h,Cinema:ABC,Hiking
+Ibtissem,Guenenna,36,Cigarette électronique,Matin:8h-10h,Cinema:Le Colisée,Peinture
+Safa,Ridha,59,Cigarette électronique,Apres-midi:12h-15h,Restaurant:The Bamboo,Astronomie
+Nahla,Gader,26,Casque,Matin:10h-12h,Restaurant:THE FIRST,Fashion
+Amina,Njima,64,Boisson:Soda,Matin:8h-10h,Cafe:Little Sarrajine,Politique
+Jaafar,Chakroun,25,Livre:Roman,Apres-midi:12h-15h,Restaurant:THE FIRST,Politique
+Chaher,Ben Marzouk,30,Lunettes de soleil,Apres-midi:15h-18h,Cafe:Mio mondo,Skydiving
+Adam,Cherif,40,T-shirt,Apres-midi:15h-18h,Parc:Sidi Bousaid,Hiking
+Zaineb,Ghorbel,19,Casque,Apres-midi:15h-18h,Theatre:Theatre municipal de Tunis,Voyager
+Aymen,Hasnaoui,40,Articles décoratifs,Apres-midi:12h-15h,Club:Bibliophiles tunisiens,Musique
+Ilyes,Hedi,45,Sac à dos,Soir:18h-22h,Cafe:Red Light,Cinema
+Ibtissem,Ridha,21,Sac à dos,Matin:8h-10h,Cafe:Little Sarrajine,Football
+Akrem,Atay,40,T-shirt,Matin:8h-10h,Restaurant:La Palette,Cuisiner
+Nour,Njima,43,Tickets match,Apres-midi:15h-18h,Theatre:Theatre municipal de Tunis,Skydiving
+Ahmed,Chebbi,23,Notebook,Matin:10h-12h,Restaurant:Lido,Peinture
+Mostfa,Hasnaoui,50,Tickets match,Apres-midi:12h-15h,Restaurant:THE FIRST,Cuisiner
+Safa,Jelassi,60,Casque,Apres-midi:15h-18h,Cinema:Amicar Hannibal,Voyager
+Walid,Hasnaoui,17,Tickets film,Matin:8h-10h,Restaurant:Lido,Hiking
+Nour,Ibrahim,61,Produits cosmetiques,Apres-midi:12h-15h,Association:Croissant Rouge,Fashion
+Ilyes,Snoussi,21,Boisson:alcool,Soir:22h-00h,Cinema:ABC,Voyager
+Ali,Tawfik,30,Tickets film,Matin:8h-10h,Hotel:Hotel Du Parc,Voyager
+Walid,Belhaj,33,Produits cosmetiques,Apres-midi:15h-18h,Cinema:Le Colisée,Cinema
+Ilyes,Salah,39,Tickets film,Matin:8h-10h,Hotel:Marina palace,Dance oriental
+Dhia,Mejri,60,Montre,Soir:18h-22h,Stade:Rades,Cuisiner
+Aymen,Abid,45,Parfum,Matin:8h-10h,Parc:National Boukornine,Politique
+Heni,Ibrahim,53,Boisson:Soda,Soir:18h-22h,Hotel:Marina palace,Football
+Houssem,Ben Youssef,43,Tickets match,Soir:22h-00h,Restaurant:La Tavolata,Jardinage
+Houssem,Hasnaoui,60,Notebook,Soir:22h-00h,Cinema:ABC,Dance classique
+Gaith,Ben Guiza,27,T-shirt,Apres-midi:15h-18h,Bibliotheque:Publique El Ghazela,Cinema
+Ala,Dammak,30,Notebook,Apres-midi:12h-15h,Cafe:Cubana Latino,Musique
+Dhia,Khaldi,24,Montre,Apres-midi:15h-18h,Theatre:El Teatro,Football
+Amina,Hedi,30,Montre,Soir:18h-22h,Bar:Yuka,Gaming
+Taha,Naouali,22,Produits cosmetiques,Apres-midi:12h-15h,Bibliotheque:Publique El Ghazela,Voyager
+Aymen,Krichen,58,Casque,Soir:22h-00h,Hotel:El Mouradi,Dance classique
+Chaima,Hasnaoui,29,Boisson:Soda,Matin:10h-12h,Cafe:Moustache,Voyager
+Chaher,Zairi,45,Lunettes de soleil,Matin:8h-10h,Cafe:Twins,Football
+Taha,Naouali,57,Casque,Apres-midi:15h-18h,Bar:Yuka,Skydiving
+Oumaima,Chebbi,45,Parfum,Apres-midi:12h-15h,Bar:Le Carpe Diem,Developpement personnel
+Houssem,Tawfik,22,Jeux video,Soir:18h-22h,Marché central,Jardinage
+Saif,Gader,36,Parfum,Apres-midi:15h-18h,Association:Croissant Rouge,Jardinage
+Sihem,Atay,49,Sac à dos,Apres-midi:12h-15h,Parc:Sidi Bousaid,Volontariat
+Amal,Dridi,35,Sac à dos,Soir:18h-22h,Restaurant:La Tavolata,Lecture
+Farah,Belhaj,34,Livre:Roman,Matin:8h-10h,Cafe:Evasion,Lecture
+Ons,Gader,29,Boisson:alcool,Apres-midi:15h-18h,Restaurant:Dar Fatma,Fashion
+Asma,Ghorbel,54,Montre,Soir:18h-22h,Stade:Rades,Cuisiner
+Chaher,Dridi,32,Notebook,Apres-midi:12h-15h,Cafe:Moustache,Fashion
+Houda,Tawfik,54,Cigarettes,Apres-midi:15h-18h,Parc:National Boukornine,Fashion
+Chaima,Belhaj,55,Lunettes de soleil,Apres-midi:12h-15h,Cafe:Evasion,Football
+Nour,Ben Guiza,26,Livre:Roman,Matin:8h-10h,Cinema:Le Colisée,Peinture
+Chaima,Atay,40,Sac à dos,Soir:22h-00h,Theatre:El Teatro,Musique
+Jaafar,Atay,55,T-shirt,Apres-midi:15h-18h,Bibliotheque:Publique El Ghazela,Photographie
+Nahla,Zairi,49,Cigarette électronique,Soir:22h-00h,Hopital:mélitaire,Dance oriental
+Ali,Maatoug,56,Sac à dos,Soir:22h-00h,Cinema:ABC,Musique
+Ilyes,Snoussi,55,T-shirt,Soir:18h-22h,Bar:Le Carpe Diem,Developpement personnel
+Nour,Abid,18,Tickets match,Soir:22h-00h,Aereport,Cuisiner
+Adam,Ibrahim,37,Basket,Apres-midi:15h-18h,Parc:Urbain Ennahli,Jardinage
+Taha,Ben Marzouk,63,Tickets match,Matin:8h-10h,Restaurant:La Tavolata,Voyager
+Soumaya,Dammak,33,Parfum,Apres-midi:12h-15h,Stade:Rades,Hiking
+Farah,Krichen,33,Jeux video,Apres-midi:12h-15h,Cafe:Casa del gelato,Fashion
+Nour,Ben Youssef,51,Cigarettes,Soir:22h-00h,Cinema:Le Colisée,Photographie
+Mostfa,Sferi,46,Casque,Apres-midi:12h-15h,Cinema:Amicar Hannibal,Cuisiner
+Sihem,Mejri,46,Livre:Roman,Apres-midi:15h-18h,Restaurant:THE FIRST,Volontariat
+Farah,Zairi,42,Parfum,Soir:18h-22h,Cinema:ABC,Cinema
+Oumaima,Ghorbel,22,Casque,Soir:22h-00h,Parc:Jardin Japonais,Lecture
+Ibtissem,Ibrahim,36,Fast food,Soir:22h-00h,Restaurant:Lido,Hiking
+Amin,Chakroun,27,Tickets match,Soir:18h-22h,Hopital:mélitaire,Politique
+Nour,Bondka,47,Produits cosmetiques,Soir:18h-22h,Parc:Jardin Japonais,Gaming
+Salem,Hasnaoui,18,Tickets film,Soir:18h-22h,Bar:Le duplex,Politique
+Houda,Chebbi,24,Boisson:alcool,Apres-midi:15h-18h,Cafe:Little Sarrajine,Hiking
+Salem,Salah,62,Jeux video,Soir:22h-00h,Bibliotheque:Publique Bardo,Photographie
+Foued,Abid,56,Tickets film,Apres-midi:12h-15h,Bibliotheque:Publique El Ghazela,Cuisiner
+Oumaima,Maiza,50,Fast food,Soir:18h-22h,Stade:Rades,Politique
+Nour,Khaldi,56,Tickets match,Matin:10h-12h,Bar:Le Carpe Diem,Developpement personnel
+Ons,Slim,41,Lunettes de soleil,Matin:10h-12h,Cafe:The Diesel,Cinema
+Samir,Maatoug,27,Basket,Soir:22h-00h,Restaurant:Lido,Photographie
+Amal,Belhaj,54,Boisson:Soda,Matin:8h-10h,Cafe:Little Sarrajine,Astronomie
+Ali,Zairi,64,Basket,Soir:18h-22h,Cafe:Mio mondo,Developpement personnel
+Iheb,Gader,27,Casque,Matin:8h-10h,Hopital:mélitaire,Dance oriental
+Adam,Sferi,18,T-shirt,Soir:18h-22h,Hotel:Hotel Du Parc,Developpement personnel
+Saif,Cherif,27,Jeux video,Apres-midi:12h-15h,Cafe:High Square,Musique
+Nour,Guesmi,22,Boisson:alcool,Matin:8h-10h,Cafe:Brooklyn,Peinture
+Zaineb,Smitri,30,Notebook,Soir:18h-22h,Cafe:Twins,Developpement personnel
+Ilyes,Gader,30,Cigarette électronique,Soir:22h-00h,Salle de jeux:Gamers Club,Jardinage
+Aida,Dridi,24,Boisson:Soda,Matin:10h-12h,Theatre:Theatre municipal de Tunis,Musique
+Oussama,Snoussi,52,Basket,Soir:18h-22h,Parc:Jardin Japonais,Dance oriental
+Ahmed,Ghorbel,65,Lunettes de soleil,Matin:10h-12h,Cafe:Moustache,Musique
+Iheb,Slim,57,Boisson:Soda,Matin:8h-10h,Restaurant:Dar Fatma,Gaming
+Zaineb,Cherif,47,Sac à dos,Soir:18h-22h,Parc:Jardin Japonais,Dance oriental
+Chaher,Sferi,44,Tickets match,Soir:22h-00h,Parc:Urbain Ennahli,Lecture
+Mostfa,Smitri,21,Notebook,Soir:18h-22h,Marché central,Jardinage
+Asma,Snoussi,19,Sac à dos,Apres-midi:12h-15h,Hotel:Hotel Du Parc,Jardinage
+Amal,Slim,54,Casque,Soir:18h-22h,Cafe:The Diesel,Cinema
+Montassar,Maatoug,56,Articles décoratifs,Soir:18h-22h,Bar:Le Carpe Diem,Voyager
+Ons,Maiza,27,Parfum,Soir:18h-22h,Cafe:Little Sarrajine,Astronomie
+Amin,Cherif,62,Produits cosmetiques,Apres-midi:12h-15h,Cafe:Mio mondo,Hiking
+Mohamed,Tawfik,21,Produits cosmetiques,Apres-midi:15h-18h,Restaurant:Lido,Peinture
+Ibtissem,Guesmi,20,Sac à dos,Matin:8h-10h,Restaurant:The Bamboo,Skydiving
+Soumaya,Mejri,65,Articles décoratifs,Matin:10h-12h,Cafe:Little Sarrajine,Hiking
+Ahmed,Guesmi,53,Fast food,Apres-midi:12h-15h,Theatre:El Teatro,Dance oriental
+Oussama,Tawfik,53,Cigarette électronique,Soir:22h-00h,Cafe:The Diesel,Voyager
+Amin,Belhaj,43,Notebook,Matin:10h-12h,Marché central,Jardinage
+Ali,Gamoudi,36,Articles décoratifs,Soir:18h-22h,Cafe:Casa del gelato,Cuisiner
+Houda,Ridha,42,Produits cosmetiques,Matin:8h-10h,Cafe:Cubana Latino,Peinture
+Samir,Hasnaoui,27,Montre,Apres-midi:15h-18h,Cafe:Mio mondo,Fashion
+Walid,Ridha,36,Cigarettes,Apres-midi:15h-18h,Bar:Yuka,Photographie
+Oumaima,Guesmi,64,Notebook,Soir:18h-22h,Cafe:Moustache,Dance classique
+Ibtissem,Ridha,24,Cigarette électronique,Matin:8h-10h,Theatre:Theatre municipal de Tunis,Photographie
+Aymen,Naouali,39,Tickets film,Apres-midi:15h-18h,Bar:Yuka,Lecture
+Amin,Hedi,48,Casque,Matin:10h-12h,Restaurant:Lido,Football
+Heni,Ben Guiza,60,Articles décoratifs,Apres-midi:15h-18h,Salle de jeux:Gamers Club,Photographie
+Asma,Maiza,58,Cigarette électronique,Matin:10h-12h,Cafe:Red Light,Developpement personnel
+Mohamed,Maiza,31,Boisson:alcool,Apres-midi:15h-18h,Parc:National Boukornine,Astronomie
+Oumaima,Atay,36,Produits cosmetiques,Apres-midi:15h-18h,Restaurant:The Bamboo,Musique
+Sihem,Gader,34,Sac à dos,Soir:18h-22h,Restaurant:Dar Fatma,Astronomie
+Ahmed,Maatoug,37,Fast food,Matin:8h-10h,Parc:Sidi Bousaid,Peinture
+Oussama,Khaldi,62,Tickets match,Matin:10h-12h,Le Bowling Lac,Jardinage
+Asma,Tawfik,20,Parfum,Soir:22h-00h,Restaurant:The Bamboo,Football
+Iheb,Ridha,54,Montre,Soir:18h-22h,Aereport,Jardinage
+Aymen,Dammak,37,Lunettes de soleil,Matin:10h-12h,Theatre:Theatre municipal de Tunis,Developpement personnel
+Houda,Guesmi,39,Cigarette électronique,Apres-midi:12h-15h,Cafe:Moustache,Lecture
+Dhia,Ridha,39,Parfum,Matin:10h-12h,Musée:Bardo,Astronomie
+Ibtissem,Zairi,46,Notebook,Apres-midi:15h-18h,Bibliotheque:Publique El Ghazela,Volontariat
+Sihem,Slim,21,Parfum,Soir:22h-00h,Club:Bibliophiles tunisiens,Astronomie
+Ons,Tawfik,29,Articles décoratifs,Apres-midi:12h-15h,Theatre:Theatre municipal de Tunis,Fashion
+Oussama,Chebbi,28,Boisson:Soda,Matin:8h-10h,Association:Croissant Rouge,Cinema
+Mostfa,Krichen,20,Articles décoratifs,Apres-midi:15h-18h,Cinema:ABC,Cinema
+Gaith,Ben Youssef,53,Cigarette électronique,Soir:22h-00h,Cafe:Brooklyn,Cuisiner
+Farah,Maiza,19,T-shirt,Soir:22h-00h,Restaurant:Lido,Cuisiner
+Taha,Gamoudi,53,Articles décoratifs,Apres-midi:12h-15h,Restaurant:Dar Fatma,Gaming
+Amal,Krichen,56,Fast food,Apres-midi:15h-18h,Marché central,Astronomie
+Jaafar,Tawfik,41,Notebook,Soir:22h-00h,Bar:Yuka,Astronomie
+Ali,Hedi,51,Cigarette électronique,Soir:18h-22h,Le Bowling Lac,Photographie
+Farah,Ibrahim,23,Tickets match,Matin:10h-12h,Cafe:Little Sarrajine,Photographie
+Nour,Guenenna,17,Jeux video,Apres-midi:12h-15h,Restaurant:Lido,Photographie
+Houssem,Bondka,24,Tickets match,Matin:10h-12h,Association:Croissant Rouge,Astronomie
+Chaima,Naouali,53,Jeux video,Soir:22h-00h,Musée:Bardo,Gaming
+Asma,Ridha,31,Sac à dos,Soir:22h-00h,Parc:National Boukornine,Cuisiner
+Foued,Abid,47,Casque,Soir:22h-00h,Marché central,Developpement personnel
+Mohamed,Njima,20,Boisson:Soda,Soir:18h-22h,Boutiques,Cinema
+Foued,Abid,36,Tickets film,Soir:18h-22h,Restaurant:La Tavolata,Politique
+Asma,Chakroun,24,T-shirt,Soir:18h-22h,Hotel:Hotel Du Parc,Lecture
+Oussama,Hedi,61,Livre:Roman,Apres-midi:12h-15h,Cafe:Moustache,Cinema
+Gaith,Ben Guiza,30,T-shirt,Soir:18h-22h,Musée:Bardo,Skydiving
+Ahmed,Ben Guiza,28,Produits cosmetiques,Matin:8h-10h,Cafe:High Square,Politique
+Amina,Smitri,43,Basket,Soir:18h-22h,Hopital:mélitaire,Cuisiner
+Ibtissem,Jelassi,47,Articles décoratifs,Apres-midi:15h-18h,Bar:Le Carpe Diem,Dance classique
+Dhia,Salah,44,Boisson:Soda,Matin:10h-12h,Restaurant:La Palette,Jardinage
+Foued,Dammak,32,Boisson:Soda,Soir:22h-00h,Marché central,Cinema
+Samir,Salah,32,Sac à dos,Apres-midi:12h-15h,Boutiques,Dance oriental
+Ibtissem,Gader,41,Produits cosmetiques,Apres-midi:12h-15h,Cafe:Mio mondo,Peinture
+Dhia,Snoussi,44,Parfum,Soir:18h-22h,Restaurant:THE FIRST,Dance classique
+Heni,Krichen,27,Lunettes de soleil,Soir:22h-00h,Parc:Sidi Bousaid,Dance classique
+Houssem,Atay,35,Notebook,Apres-midi:12h-15h,Parc:Urbain Ennahli,Skydiving
+Amina,Hasnaoui,25,Montre,Matin:10h-12h,Salle de jeux:Gamers Club,Politique
+Iheb,Jelassi,36,T-shirt,Matin:8h-10h,Club:Bibliophiles tunisiens,Hiking
+Foued,Ben Marzouk,38,Tickets film,Apres-midi:15h-18h,Association:Croissant Rouge,Photographie
+Safa,Belhaj,31,Basket,Apres-midi:15h-18h,Parc:National Boukornine,Astronomie
+Nahla,Abid,50,Parfum,Soir:22h-00h,Bibliotheque:Publique El Ghazela,Cinema
+Salem,Cherif,43,Basket,Matin:8h-10h,Restaurant:La Palette,Skydiving
+Ahmed,Gader,44,Sac à dos,Matin:10h-12h,Cinema:Le Colisée,Voyager
+Jaafar,Dammak,33,Boisson:Soda,Apres-midi:15h-18h,Bar:Yuka,Lecture
+Nahla,Tawfik,41,Jeux video,Soir:18h-22h,Cafe:Casa del gelato,Dance oriental
+Mostfa,Krichen,26,Boisson:Soda,Apres-midi:15h-18h,Marché central,Politique
+Ibtissem,Chakroun,21,Basket,Apres-midi:12h-15h,Restaurant:The Bamboo,Musique
+Heni,Gader,44,Tickets match,Apres-midi:12h-15h,Restaurant:Lido,Photographie
+Gaith,Jelassi,50,Cigarette électronique,Soir:18h-22h,Cafe:Cubana Latino,Gaming
+Ilyes,Cherif,61,Boisson:alcool,Matin:8h-10h,Bar:Le Carpe Diem,Politique
+Asma,Krichen,48,Basket,Apres-midi:12h-15h,Cafe:Cubana Latino,Cuisiner
+Ahmed,Chebbi,34,Tickets film,Soir:18h-22h,Parc:Jardin Japonais,Volontariat
+Amal,Njima,37,Livre:Roman,Soir:22h-00h,Cafe:Brooklyn,Politique
+Houda,Khaldi,42,Cigarettes,Apres-midi:15h-18h,Hotel:Hotel Du Parc,Volontariat
+Houssem,Atay,35,Articles décoratifs,Apres-midi:15h-18h,Bibliotheque:Publique Bardo,Jardinage
+Safa,Abid,23,Livre:Roman,Soir:22h-00h,Cafe:Mio mondo,Volontariat
+Farah,Hedi,28,Lunettes de soleil,Matin:10h-12h,Restaurant:THE FIRST,Gaming
+Ahmed,Salah,60,Fast food,Soir:18h-22h,Aereport,Developpement personnel
+Mostfa,Maiza,43,Cigarette électronique,Apres-midi:12h-15h,Parc:Sidi Bousaid,Dance classique
+Oumaima,Guesmi,45,Lunettes de soleil,Soir:22h-00h,Theatre:Theatre municipal de Tunis,Gaming
+Samir,Njima,54,Sac à dos,Matin:10h-12h,Cafe:Twins,Musique
+Ilyes,Hasnaoui,44,Notebook,Matin:8h-10h,Hopital:mélitaire,Gaming
+Jaafar,Belhaj,26,Articles décoratifs,Apres-midi:15h-18h,Boutiques,Astronomie
+Dhia,Maatoug,55,Tickets film,Matin:10h-12h,Bibliotheque:Publique El Ghazela,Developpement personnel
+Mohamed,Atay,35,Produits cosmetiques,Apres-midi:15h-18h,Bibliotheque:Publique Bardo,Volontariat
+Jaafar,Sferi,45,Boisson:Soda,Soir:18h-22h,Parc:National Boukornine,Gaming
+Nour,Tawfik,36,Tickets film,Matin:10h-12h,Cinema:ABC,Volontariat
+Samir,Ridha,34,Notebook,Soir:18h-22h,Cafe:Casa del gelato,Football
+Farah,Salah,55,Tickets match,Soir:22h-00h,Hotel:El Mouradi,Politique
+Nour,Salah,54,Parfum,Apres-midi:15h-18h,Cafe:Evasion,Cuisiner
+Oumaima,Ben Marzouk,64,Tickets film,Matin:8h-10h,Hopital:mélitaire,Cinema
+Nahla,Guesmi,54,T-shirt,Apres-midi:12h-15h,Cinema:Amicar Hannibal,Astronomie
+Farah,Ibrahim,38,Notebook,Matin:10h-12h,Cinema:ABC,Musique
+Oussama,Belhaj,17,Casque,Matin:10h-12h,Theatre:El Teatro,Jardinage
+Chaher,Guesmi,63,Lunettes de soleil,Matin:8h-10h,Parc:Urbain Ennahli,Gaming
+Safa,Chakroun,41,Produits cosmetiques,Apres-midi:15h-18h,Restaurant:THE FIRST,Dance oriental
+Ibtissem,Bondka,45,Tickets film,Apres-midi:15h-18h,Cafe:Evasion,Photographie
+Amal,Ibrahim,45,Casque,Soir:18h-22h,Parc:National Boukornine,Developpement personnel
+Mostfa,Ridha,47,Tickets match,Apres-midi:15h-18h,Restaurant:La Tavolata,Astronomie
+Chaher,Jelassi,41,Jeux video,Matin:10h-12h,Bar:Yuka,Developpement personnel
+Iheb,Gamoudi,64,Jeux video,Matin:10h-12h,Parc:Jardin Japonais,Lecture
+Asma,Sferi,51,Jeux video,Apres-midi:12h-15h,Parc:Urbain Ennahli,Voyager
+Taha,Atay,49,Lunettes de soleil,Soir:22h-00h,Cafe:Casa del gelato,Peinture
+Iheb,Cherif,30,Fast food,Apres-midi:15h-18h,Hotel:El Mouradi,Volontariat
+Montassar,Maatoug,45,Sac à dos,Matin:10h-12h,Club:Bibliophiles tunisiens,Gaming
+Aida,Dridi,44,Casque,Matin:8h-10h,Restaurant:La Tavolata,Astronomie
+Amin,Maatoug,41,Montre,Apres-midi:15h-18h,Parc:Sidi Bousaid,Peinture
+Soumaya,Hasnaoui,31,Cigarette électronique,Apres-midi:12h-15h,Theatre:El Teatro,Cuisiner
+Jaafar,Mejri,36,Lunettes de soleil,Soir:18h-22h,Cafe:The Diesel,Astronomie
+Oussama,Ibrahim,30,Parfum,Matin:8h-10h,Theatre:Theatre municipal de Tunis,Gaming
+Salem,Guenenna,19,Articles décoratifs,Matin:10h-12h,Cafe:Cubana Latino,Politique
+Aida,Krichen,62,Cigarette électronique,Matin:10h-12h,Bibliotheque:Publique El Ghazela,Developpement personnel
+Heni,Ben Guiza,49,Livre:Roman,Soir:18h-22h,Parc:Sidi Bousaid,Musique
+Asma,Chakroun,26,Produits cosmetiques,Apres-midi:12h-15h,Cafe:Mio mondo,Cinema
+Amin,Chebbi,57,Boisson:alcool,Soir:22h-00h,Parc:Jardin Japonais,Gaming
+Ons,Guesmi,61,Casque,Apres-midi:15h-18h,Bibliotheque:Publique El Ghazela,Cuisiner
+Adam,Chakroun,18,Livre:Roman,Matin:10h-12h,Boutiques,Gaming
+Gaith,Cherif,27,Produits cosmetiques,Matin:8h-10h,Cinema:Amicar Hannibal,Politique
+Walid,Snoussi,39,Produits cosmetiques,Apres-midi:15h-18h,Restaurant:Dar Fatma,Voyager
+Amal,Abid,17,Livre:Roman,Soir:18h-22h,Restaurant:La Tavolata,Jardinage
+Adam,Ridha,22,Livre:Roman,Matin:10h-12h,Stade:Rades,Musique
+Foued,Hasnaoui,64,Sac à dos,Apres-midi:12h-15h,Cafe:Twins,Politique
+Adam,Krichen,38,Basket,Soir:18h-22h,Club:Bibliophiles tunisiens,Voyager
+Asma,Khaldi,59,Cigarette électronique,Apres-midi:12h-15h,Cinema:Amicar Hannibal,Hiking
+Dhia,Guesmi,45,Parfum,Soir:18h-22h,Le Bowling Lac,Gaming
+Sihem,Slim,27,Jeux video,Apres-midi:12h-15h,Association:Croissant Rouge,Politique
+Nahla,Ben Marzouk,37,Produits cosmetiques,Soir:22h-00h,Cafe:High Square,Football
+Jaafar,Dammak,45,T-shirt,Soir:18h-22h,Cafe:High Square,Developpement personnel
+Ali,Chakroun,49,Parfum,Matin:10h-12h,Cafe:Brooklyn,Gaming
+Nahla,Bondka,25,Cigarettes,Matin:10h-12h,Cafe:Red Light,Photographie
+Houda,Gamoudi,30,Cigarette électronique,Matin:8h-10h,Le Bowling Lac,Volontariat
+Chaima,Abid,50,Boisson:Soda,Matin:10h-12h,Cinema:Le Colisée,Voyager
+Walid,Bondka,30,Tickets film,Matin:8h-10h,Restaurant:La Tavolata,Cuisiner
+Adam,Cherif,19,Sac à dos,Apres-midi:12h-15h,Cafe:Little Sarrajine,Astronomie
+Amal,Jelassi,39,Boisson:Soda,Soir:18h-22h,Cinema:Le Colisée,Dance classique
+Chaima,Dammak,63,Boisson:alcool,Soir:18h-22h,Cinema:ABC,Lecture
+Zaineb,Chakroun,53,Tickets match,Apres-midi:15h-18h,Bar:Yuka,Hiking
+Oumaima,Hedi,26,Casque,Apres-midi:15h-18h,Parc:Jardin Japonais,Volontariat
+Heni,Guesmi,42,T-shirt,Matin:8h-10h,Parc:Sidi Bousaid,Astronomie
+Ilyes,Snoussi,50,Tickets match,Matin:8h-10h,Cinema:Le Colisée,Gaming
+Nour,Dridi,32,T-shirt,Soir:18h-22h,Theatre:Theatre municipal de Tunis,Cuisiner
+Iheb,Cherif,25,Sac à dos,Apres-midi:15h-18h,Hopital:mélitaire,Dance oriental
+Ala,Cherif,29,Parfum,Apres-midi:12h-15h,Parc:Jardin Japonais,Musique
+Aida,Bondka,21,Jeux video,Soir:22h-00h,Club:Bibliophiles tunisiens,Hiking
+Akrem,Dammak,32,Basket,Soir:22h-00h,Parc:Jardin Japonais,Fashion
+Asma,Belhaj,54,Cigarette électronique,Matin:10h-12h,Theatre:El Teatro,Photographie
+Sihem,Hedi,41,Jeux video,Soir:18h-22h,Cafe:Red Light,Hiking
+Houda,Krichen,55,Articles décoratifs,Matin:10h-12h,Stade:Rades,Football
+Iheb,Salah,60,Fast food,Matin:10h-12h,Cafe:Little Sarrajine,Cinema
+Chaher,Ghorbel,18,Basket,Soir:22h-00h,Le Bowling Lac,Skydiving
+Ali,Ibrahim,54,Notebook,Soir:22h-00h,Cafe:Mio mondo,Lecture
+Ahmed,Dammak,56,Fast food,Matin:8h-10h,Bar:Le duplex,Developpement personnel
+Nahla,Jelassi,49,Produits cosmetiques,Soir:22h-00h,Cafe:Moustache,Musique
+Akrem,Dridi,42,Boisson:Soda,Apres-midi:15h-18h,Cafe:Cubana Latino,Cuisiner
+Ilyes,Dridi,27,Notebook,Apres-midi:15h-18h,Club:Bibliophiles tunisiens,Cuisiner
+Soumaya,Cherif,53,Basket,Apres-midi:15h-18h,Restaurant:La Tavolata,Cinema
+Ali,Dammak,50,Sac à dos,Matin:8h-10h,Cinema:ABC,Gaming
+Ahmed,Smitri,34,Boisson:alcool,Soir:18h-22h,Club:Bibliophiles tunisiens,Photographie
+Saif,Ben Youssef,59,Parfum,Apres-midi:12h-15h,Cafe:Twins,Cuisiner
+Aida,Ghorbel,25,T-shirt,Matin:10h-12h,Restaurant:Dar Fatma,Fashion
+Mostfa,Hasnaoui,51,Sac à dos,Apres-midi:12h-15h,Cafe:Mio mondo,Developpement personnel
+Nour,Ridha,26,Boisson:alcool,Matin:10h-12h,Restaurant:The Bamboo,Cinema
+Ons,Gader,44,Jeux video,Matin:10h-12h,Hotel:El Mouradi,Astronomie
+Soumaya,Atay,52,Parfum,Apres-midi:15h-18h,Le Bowling Lac,Fashion
+Nahla,Khaldi,39,Casque,Matin:8h-10h,Association:Croissant Rouge,Politique
+Montassar,Chakroun,20,Notebook,Apres-midi:15h-18h,Hopital:mélitaire,Skydiving
+Heni,Krichen,21,Casque,Matin:8h-10h,Aereport,Musique
+Montassar,Tawfik,40,Fast food,Soir:22h-00h,Parc:Sidi Bousaid,Musique
+Houssem,Chebbi,58,Boisson:alcool,Apres-midi:12h-15h,Bar:Yuka,Volontariat
+Ala,Chakroun,25,Fast food,Apres-midi:12h-15h,Parc:Jardin Japonais,Skydiving
+Asma,Dridi,28,Livre:Roman,Apres-midi:15h-18h,Cafe:Red Light,Photographie
+Ibtissem,Tawfik,23,Livre:Roman,Apres-midi:15h-18h,Association:Croissant Rouge,Fashion
+Ali,Ridha,48,Notebook,Matin:8h-10h,Association:Croissant Rouge,Cuisiner
+Amina,Tawfik,36,Casque,Soir:18h-22h,Salle de jeux:Gamers Club,Voyager
+Jaafar,Ben Guiza,24,Boisson:alcool,Apres-midi:12h-15h,Cafe:Cubana Latino,Developpement personnel
+Houssem,Chakroun,19,Produits cosmetiques,Soir:18h-22h,Theatre:El Teatro,Hiking
+Mohamed,Belhaj,53,Notebook,Apres-midi:12h-15h,Boutiques,Cinema
+Montassar,Maatoug,61,Boisson:alcool,Soir:18h-22h,Cinema:Le Colisée,Politique
+Montassar,Atay,22,Casque,Soir:22h-00h,Cafe:Red Light,Football
+Adam,Salah,33,Jeux video,Apres-midi:15h-18h,Restaurant:La Tavolata,Cuisiner
+Adam,Slim,35,Parfum,Matin:10h-12h,Cinema:Le Colisée,Dance oriental
+Zaineb,Bondka,39,Parfum,Apres-midi:12h-15h,Restaurant:Lido,Cuisiner
+Taha,Guenenna,44,Fast food,Apres-midi:12h-15h,Musée:Bardo,Dance classique
+Amina,Smitri,59,Notebook,Soir:18h-22h,Parc:Jardin Japonais,Fashion
+Farah,Ben Marzouk,29,Cigarette électronique,Matin:8h-10h,Cafe:Mio mondo,Photographie
+Houda,Maiza,49,Basket,Soir:22h-00h,Cafe:Evasion,Dance oriental
+Ali,Snoussi,25,Parfum,Apres-midi:15h-18h,Cafe:Red Light,Hiking
+Zaineb,Guenenna,48,Boisson:Soda,Soir:22h-00h,Cafe:Moustache,Fashion
+Nahla,Chakroun,41,Lunettes de soleil,Soir:22h-00h,Le Bowling Lac,Hiking
+Oussama,Hedi,36,Sac à dos,Soir:18h-22h,Cafe:Moustache,Photographie
+Soumaya,Gader,62,Parfum,Apres-midi:15h-18h,Parc:Urbain Ennahli,Cuisiner
+Soumaya,Jelassi,50,Cigarette électronique,Matin:8h-10h,Hotel:Hotel Du Parc,Football
+Taha,Guesmi,35,Fast food,Soir:18h-22h,Parc:Urbain Ennahli,Volontariat
+Amina,Snoussi,54,Cigarette électronique,Apres-midi:12h-15h,Cafe:Brooklyn,Football
+Ibtissem,Hasnaoui,40,Cigarette électronique,Apres-midi:15h-18h,Bar:Le duplex,Skydiving
+Salem,Guenenna,53,Tickets film,Soir:22h-00h,Bar:Le duplex,Dance classique
+Houssem,Cherif,55,Parfum,Matin:8h-10h,Cafe:Little Sarrajine,Dance oriental
+Houda,Chakroun,61,Tickets film,Soir:22h-00h,Cinema:ABC,Photographie
+Farah,Slim,37,Cigarettes,Soir:22h-00h,Restaurant:THE FIRST,Skydiving
+Jaafar,Maiza,63,Boisson:alcool,Apres-midi:12h-15h,Restaurant:Lido,Football
+Gaith,Ridha,64,Cigarettes,Soir:22h-00h,Restaurant:THE FIRST,Musique
+Ons,Belhaj,59,Basket,Apres-midi:15h-18h,Aereport,Dance classique
+Gaith,Salah,33,Tickets film,Soir:18h-22h,Cinema:ABC,Hiking
+Zaineb,Cherif,26,Livre:Roman,Apres-midi:15h-18h,Le Bowling Lac,Astronomie
+Ilyes,Dridi,63,Cigarette électronique,Apres-midi:15h-18h,Cafe:Casa del gelato,Cinema
+Mohamed,Sferi,50,Produits cosmetiques,Apres-midi:15h-18h,Parc:Urbain Ennahli,Skydiving
+Heni,Smitri,28,Tickets film,Soir:22h-00h,Cafe:The Diesel,Photographie
+Soumaya,Ben Guiza,58,Notebook,Soir:18h-22h,Theatre:Theatre municipal de Tunis,Gaming
+Gaith,Slim,36,Produits cosmetiques,Apres-midi:15h-18h,Parc:National Boukornine,Football
+Amin,Bondka,18,Sac à dos,Apres-midi:12h-15h,Cafe:High Square,Voyager
+Soumaya,Maiza,19,Fast food,Soir:18h-22h,Restaurant:La Palette,Politique
+Mostfa,Dridi,32,Jeux video,Soir:18h-22h,Cinema:Amicar Hannibal,Cinema
+Adam,Krichen,47,Notebook,Matin:10h-12h,Boutiques,Astronomie
+Taha,Salah,30,Basket,Soir:18h-22h,Parc:National Boukornine,Voyager
+Amina,Guesmi,63,Casque,Matin:8h-10h,Restaurant:THE FIRST,Football
+Amina,Ben Marzouk,29,Fast food,Apres-midi:15h-18h,Cafe:Casa del gelato,Jardinage
+Samir,Chakroun,17,Cigarette électronique,Soir:18h-22h,Parc:National Boukornine,Lecture
+Jaafar,Gader,18,Basket,Apres-midi:12h-15h,Cafe:Cubana Latino,Cinema
+Amin,Naouali,60,Tickets match,Apres-midi:15h-18h,Restaurant:Lido,Cinema
+Ahmed,Khaldi,40,Boisson:alcool,Soir:22h-00h,Cinema:Le Colisée,Skydiving
+Safa,Zairi,51,Lunettes de soleil,Soir:22h-00h,Stade:Rades,Jardinage
+Asma,Abid,47,Jeux video,Soir:18h-22h,Theatre:Theatre municipal de Tunis,Lecture
+Adam,Cherif,52,Basket,Apres-midi:12h-15h,Cafe:Moustache,Astronomie
+Mohamed,Abid,43,Fast food,Apres-midi:15h-18h,Cafe:Evasion,Peinture
+Aida,Hasnaoui,59,Lunettes de soleil,Matin:8h-10h,Bar:Le duplex,Fashion
+Taha,Naouali,39,Jeux video,Apres-midi:15h-18h,Cafe:High Square,Developpement personnel
+Farah,Smitri,51,Articles décoratifs,Apres-midi:12h-15h,Cinema:Le Colisée,Voyager
+Walid,Naouali,62,Produits cosmetiques,Apres-midi:15h-18h,Bibliotheque:Publique Bardo,Dance classique
+Soumaya,Hasnaoui,42,Montre,Matin:10h-12h,Cafe:Evasion,Peinture
+Asma,Salah,44,Basket,Matin:8h-10h,Cinema:Amicar Hannibal,Jardinage
+Akrem,Zairi,43,Cigarettes,Apres-midi:15h-18h,Hopital:mélitaire,Musique
+Mostfa,Bondka,21,Tickets match,Matin:10h-12h,Hotel:Marina palace,Cinema
+Iheb,Dridi,39,Casque,Apres-midi:12h-15h,Cafe:Mio mondo,Dance oriental
+Oumaima,Chebbi,35,Boisson:Soda,Apres-midi:15h-18h,Bibliotheque:Publique El Ghazela,Skydiving
+Mostfa,Krichen,42,Boisson:alcool,Soir:22h-00h,Cafe:Red Light,Dance oriental
+Foued,Ben Youssef,41,Notebook,Apres-midi:15h-18h,Marché central,Musique
+Amin,Slim,57,Produits cosmetiques,Apres-midi:15h-18h,Restaurant:La Tavolata,Skydiving
+Walid,Ben Marzouk,62,Tickets film,Matin:10h-12h,Bar:Le duplex,Astronomie
+Ali,Cherif,33,Lunettes de soleil,Matin:8h-10h,Bar:Yuka,Astronomie
+Aymen,Ben Guiza,65,Montre,Matin:10h-12h,Restaurant:THE FIRST,Musique
+Mohamed,Dridi,56,Lunettes de soleil,Matin:10h-12h,Restaurant:THE FIRST,Peinture
+Nahla,Bondka,57,Casque,Soir:22h-00h,Hotel:Marina palace,Dance classique
+Adam,Ben Marzouk,64,Cigarettes,Soir:22h-00h,Hopital:mélitaire,Dance oriental
+Farah,Chebbi,34,Jeux video,Apres-midi:15h-18h,Cafe:Casa del gelato,Voyager
+Iheb,Hasnaoui,65,T-shirt,Matin:10h-12h,Cafe:Red Light,Dance oriental
+Montassar,Ibrahim,47,Tickets match,Apres-midi:12h-15h,Parc:Urbain Ennahli,Football
+Taha,Bondka,44,T-shirt,Matin:10h-12h,Aereport,Developpement personnel
+Amal,Guesmi,39,Articles décoratifs,Soir:22h-00h,Restaurant:La Tavolata,Skydiving
+Ala,Chebbi,57,Boisson:Soda,Apres-midi:15h-18h,Cafe:Evasion,Developpement personnel
+Ala,Belhaj,37,Parfum,Soir:18h-22h,Cafe:Brooklyn,Dance oriental
+Chaima,Gader,22,Boisson:alcool,Apres-midi:15h-18h,Restaurant:La Palette,Astronomie
+Mohamed,Tawfik,26,Sac à dos,Soir:18h-22h,Parc:Jardin Japonais,Lecture
+Samir,Ghorbel,56,Cigarettes,Soir:22h-00h,Bibliotheque:Publique El Ghazela,Volontariat
+Salem,Ridha,64,Cigarette électronique,Soir:18h-22h,Bibliotheque:Publique Bardo,Skydiving
+Adam,Atay,30,Articles décoratifs,Soir:18h-22h,Salle de jeux:Gamers Club,Developpement personnel
+Ala,Hasnaoui,32,Basket,Apres-midi:12h-15h,Le Bowling Lac,Cuisiner
+Oumaima,Chakroun,26,Fast food,Apres-midi:12h-15h,Hopital:mélitaire,Politique
+Zaineb,Dridi,37,Produits cosmetiques,Apres-midi:12h-15h,Cafe:Moustache,Volontariat
+Oussama,Maiza,46,Basket,Apres-midi:12h-15h,Stade:Rades,Dance classique
+Ala,Cherif,20,Basket,Matin:10h-12h,Cinema:Amicar Hannibal,Photographie
+Foued,Abid,20,Cigarette électronique,Matin:8h-10h,Bibliotheque:Publique El Ghazela,Volontariat
+Ibtissem,Snoussi,53,Montre,Apres-midi:15h-18h,Cafe:Casa del gelato,Astronomie
+Houssem,Dridi,46,Parfum,Soir:22h-00h,Hotel:El Mouradi,Hiking
+Saif,Maatoug,17,Casque,Matin:10h-12h,Cafe:Brooklyn,Cinema
+Amin,Ben Youssef,48,Montre,Soir:22h-00h,Restaurant:La Palette,Dance oriental
+Saif,Belhaj,60,Articles décoratifs,Matin:8h-10h,Cafe:Cubana Latino,Hiking
+Dhia,Abid,19,Boisson:alcool,Apres-midi:15h-18h,Restaurant:The Bamboo,Developpement personnel
+Jaafar,Hasnaoui,26,Boisson:alcool,Apres-midi:15h-18h,Salle de jeux:Gamers Club,Musique
+Ilyes,Krichen,55,Tickets match,Matin:8h-10h,Cafe:Little Sarrajine,Skydiving
+Mohamed,Smitri,24,Fast food,Apres-midi:15h-18h,Restaurant:THE FIRST,Skydiving
+Amin,Hedi,56,Cigarettes,Apres-midi:12h-15h,Cafe:The Diesel,Developpement personnel
+Asma,Maiza,28,Produits cosmetiques,Matin:8h-10h,Association:Croissant Rouge,Peinture
+Asma,Tawfik,34,T-shirt,Apres-midi:15h-18h,Cinema:ABC,Gaming
+Soumaya,Bondka,36,Basket,Soir:18h-22h,Restaurant:Lido,Hiking
+Jaafar,Ben Youssef,25,Boisson:Soda,Matin:10h-12h,Cafe:Red Light,Dance oriental
+Nahla,Guenenna,36,Fast food,Apres-midi:12h-15h,Restaurant:La Palette,Developpement personnel
+Samir,Krichen,27,Sac à dos,Soir:18h-22h,Hotel:Marina palace,Hiking
+Houssem,Cherif,39,Boisson:Soda,Apres-midi:12h-15h,Salle de jeux:Gamers Club,Dance oriental
+Houssem,Ben Marzouk,23,Parfum,Soir:22h-00h,Restaurant:The Bamboo,Peinture
+Dhia,Slim,21,Jeux video,Soir:18h-22h,Cafe:Little Sarrajine,Cinema
+Houda,Jelassi,40,Cigarettes,Soir:22h-00h,Cafe:Cubana Latino,Cinema
+Ilyes,Belhaj,45,Produits cosmetiques,Matin:8h-10h,Restaurant:THE FIRST,Voyager
+Safa,Snoussi,27,Cigarette électronique,Soir:22h-00h,Parc:Sidi Bousaid,Volontariat
+Ali,Guesmi,61,Fast food,Soir:18h-22h,Marché central,Volontariat
+Adam,Krichen,46,Casque,Matin:10h-12h,Hotel:El Mouradi,Skydiving
+Ala,Salah,21,Notebook,Matin:8h-10h,Marché central,Volontariat
+Ali,Abid,52,Articles décoratifs,Apres-midi:15h-18h,Cafe:Casa del gelato,Astronomie
+Asma,Ben Marzouk,52,Cigarette électronique,Matin:10h-12h,Marché central,Fashion
+Ons,Ben Marzouk,61,Notebook,Matin:8h-10h,Cafe:Cubana Latino,Peinture
+Saif,Jelassi,32,Fast food,Matin:10h-12h,Cafe:Twins,Politique
+Amal,Snoussi,46,Cigarette électronique,Apres-midi:15h-18h,Association:Croissant Rouge,Gaming
+Ahmed,Abid,58,Tickets match,Matin:8h-10h,Restaurant:The Bamboo,Volontariat
+Gaith,Ibrahim,28,Casque,Apres-midi:12h-15h,Bar:Le Carpe Diem,Jardinage
+Dhia,Slim,46,Livre:Roman,Matin:8h-10h,Cafe:Moustache,Musique
+Dhia,Khaldi,64,Tickets film,Matin:10h-12h,Cafe:Evasion,Gaming
+Amin,Naouali,32,Cigarette électronique,Matin:10h-12h,Hopital:mélitaire,Astronomie
+Oumaima,Sferi,30,Boisson:Soda,Soir:18h-22h,Cafe:Moustache,Hiking
+Houssem,Guesmi,61,Notebook,Matin:10h-12h,Boutiques,Lecture
+Mohamed,Chebbi,39,Boisson:alcool,Matin:8h-10h,Cafe:Twins,Cinema
+Montassar,Atay,19,Boisson:alcool,Apres-midi:12h-15h,Cinema:ABC,Astronomie
+Houda,Tawfik,57,Tickets match,Matin:8h-10h,Club:Bibliophiles tunisiens,Politique
+Amina,Ibrahim,17,Casque,Apres-midi:15h-18h,Cafe:Little Sarrajine,Cuisiner
+Gaith,Dammak,37,Casque,Matin:10h-12h,Association:Croissant Rouge,Developpement personnel
+Amal,Gader,46,Parfum,Apres-midi:15h-18h,Parc:National Boukornine,Politique
+Aymen,Belhaj,34,Tickets match,Soir:18h-22h,Parc:National Boukornine,Hiking
+Aymen,Hasnaoui,23,Notebook,Matin:8h-10h,Stade:Rades,Gaming
+Ilyes,Abid,43,T-shirt,Soir:22h-00h,Restaurant:La Palette,Volontariat
+Salem,Maatoug,58,Livre:Roman,Soir:22h-00h,Restaurant:La Tavolata,Fashion
+Oussama,Snoussi,26,Notebook,Matin:10h-12h,Association:Croissant Rouge,Astronomie
+Zaineb,Ben Youssef,38,Sac à dos,Apres-midi:12h-15h,Cafe:Red Light,Fashion
+Aymen,Khaldi,17,Tickets match,Apres-midi:12h-15h,Le Bowling Lac,Gaming
+Dhia,Ridha,18,Tickets film,Matin:8h-10h,Hotel:Marina palace,Musique
+Safa,Smitri,43,Tickets match,Soir:22h-00h,Bar:Le duplex,Peinture
+Gaith,Njima,44,Notebook,Apres-midi:12h-15h,Hotel:Marina palace,Dance classique
+Nahla,Ghorbel,39,Livre:Roman,Apres-midi:12h-15h,Marché central,Volontariat
+Foued,Guenenna,17,Montre,Apres-midi:15h-18h,Club:Bibliophiles tunisiens,Cuisiner
+Safa,Salah,27,Produits cosmetiques,Apres-midi:15h-18h,Hotel:Hotel Du Parc,Football
+Houda,Ghorbel,39,Jeux video,Apres-midi:15h-18h,Theatre:El Teatro,Peinture
+Amin,Zairi,37,Montre,Matin:8h-10h,Restaurant:THE FIRST,Politique
+Saif,Zairi,22,Tickets match,Matin:8h-10h,Salle de jeux:Gamers Club,Cuisiner
+Oussama,Guenenna,55,Casque,Soir:22h-00h,Hotel:Hotel Du Parc,Lecture
+Aida,Sferi,40,Tickets match,Soir:18h-22h,Le Bowling Lac,Developpement personnel
+Saif,Gamoudi,52,Produits cosmetiques,Matin:8h-10h,Bar:Le duplex,Dance oriental
+Houssem,Ben Youssef,37,Montre,Apres-midi:12h-15h,Bar:Le Carpe Diem,Developpement personnel
+Salem,Abid,30,Sac à dos,Apres-midi:12h-15h,Theatre:El Teatro,Voyager
+Houda,Naouali,28,Fast food,Soir:22h-00h,Musée:Bardo,Musique
+Houda,Ben Youssef,45,Boisson:alcool,Matin:8h-10h,Bibliotheque:Publique Bardo,Cinema
+Gaith,Jelassi,18,Notebook,Matin:10h-12h,Theatre:Theatre municipal de Tunis,Skydiving
+Dhia,Jelassi,26,Articles décoratifs,Apres-midi:12h-15h,Aereport,Astronomie
+Iheb,Bondka,61,Articles décoratifs,Soir:22h-00h,Aereport,Jardinage
+Ahmed,Ben Guiza,48,Sac à dos,Matin:8h-10h,Hotel:El Mouradi,Cuisiner
+Akrem,Ben Youssef,27,Articles décoratifs,Soir:22h-00h,Parc:Urbain Ennahli,Lecture
+Houda,Sferi,24,T-shirt,Matin:10h-12h,Parc:Jardin Japonais,Dance classique
+Salem,Ghorbel,51,Tickets match,Apres-midi:12h-15h,Cafe:Cubana Latino,Lecture
+Chaima,Zairi,21,Casque,Apres-midi:15h-18h,Hotel:El Mouradi,Photographie
+Ons,Mejri,44,Notebook,Apres-midi:12h-15h,Marché central,Musique
+Amal,Ghorbel,51,Sac à dos,Soir:22h-00h,Theatre:Theatre municipal de Tunis,Football
+Safa,Maiza,29,Livre:Roman,Soir:18h-22h,Le Bowling Lac,Peinture
+Safa,Ibrahim,23,Produits cosmetiques,Apres-midi:15h-18h,Hotel:Marina palace,Fashion
+Oumaima,Cherif,42,Boisson:Soda,Apres-midi:12h-15h,Bibliotheque:Publique Bardo,Jardinage
+Foued,Dammak,59,T-shirt,Apres-midi:12h-15h,Stade:Rades,Skydiving
+Ibtissem,Chebbi,23,Boisson:alcool,Soir:18h-22h,Cafe:Twins,Cinema
+Zaineb,Atay,54,Casque,Matin:10h-12h,Le Bowling Lac,Football
+Akrem,Mejri,55,Tickets match,Soir:18h-22h,Bibliotheque:Publique Bardo,Jardinage
+Ali,Gader,17,Parfum,Apres-midi:12h-15h,Cafe:Moustache,Skydiving
+Gaith,Mejri,55,Sac à dos,Matin:8h-10h,Cafe:Casa del gelato,Gaming
+Iheb,Gamoudi,33,Fast food,Matin:8h-10h,Cinema:ABC,Politique
+Houssem,Khaldi,60,Fast food,Apres-midi:12h-15h,Cafe:High Square,Dance classique
+Nahla,Chakroun,47,T-shirt,Matin:8h-10h,Bibliotheque:Publique El Ghazela,Football
+Chaher,Ben Youssef,41,Cigarettes,Matin:8h-10h,Restaurant:Lido,Dance oriental
+Soumaya,Atay,42,Boisson:Soda,Apres-midi:12h-15h,Parc:National Boukornine,Photographie
+Foued,Dridi,22,Boisson:Soda,Soir:22h-00h,Cafe:Cubana Latino,Lecture
+Sihem,Abid,58,Parfum,Apres-midi:15h-18h,Cinema:ABC,Photographie
+Foued,Cherif,40,Basket,Matin:10h-12h,Restaurant:The Bamboo,Volontariat
+Salem,Dridi,46,Fast food,Matin:10h-12h,Restaurant:The Bamboo,Dance oriental
+Aymen,Sferi,51,Livre:Roman,Matin:8h-10h,Parc:Urbain Ennahli,Dance oriental
+Farah,Hedi,32,Jeux video,Apres-midi:15h-18h,Cafe:Moustache,Skydiving
+Mohamed,Gamoudi,63,Jeux video,Matin:8h-10h,Restaurant:La Tavolata,Voyager
+Samir,Hasnaoui,42,Tickets film,Apres-midi:15h-18h,Hotel:Marina palace,Cinema
+Foued,Ben Marzouk,21,Cigarettes,Apres-midi:12h-15h,Hotel:Marina palace,Dance oriental
+Akrem,Smitri,58,Boisson:alcool,Soir:22h-00h,Parc:National Boukornine,Voyager
+Jaafar,Bondka,31,Parfum,Soir:22h-00h,Restaurant:The Bamboo,Football
+Walid,Jelassi,54,Cigarette électronique,Apres-midi:12h-15h,Restaurant:La Tavolata,Volontariat
+Taha,Sferi,64,Sac à dos,Soir:22h-00h,Cafe:Little Sarrajine,Musique
+Sihem,Ibrahim,43,Livre:Roman,Soir:22h-00h,Hopital:mélitaire,Peinture
+Houda,Tawfik,51,Tickets match,Apres-midi:15h-18h,Restaurant:La Tavolata,Gaming
+Gaith,Dammak,53,Tickets film,Soir:18h-22h,Aereport,Gaming
+Akrem,Khaldi,32,Cigarettes,Apres-midi:12h-15h,Cinema:Amicar Hannibal,Photographie
+Zaineb,Ridha,36,Fast food,Apres-midi:15h-18h,Restaurant:Dar Fatma,Developpement personnel
+Zaineb,Zairi,62,Produits cosmetiques,Apres-midi:12h-15h,Hopital:mélitaire,Skydiving
+Saif,Gamoudi,28,Cigarettes,Matin:8h-10h,Club:Bibliophiles tunisiens,Photographie
+Montassar,Sferi,62,Livre:Roman,Apres-midi:15h-18h,Bar:Le duplex,Cuisiner
+Aida,Guenenna,36,T-shirt,Soir:22h-00h,Salle de jeux:Gamers Club,Astronomie
+Farah,Chebbi,34,Sac à dos,Soir:18h-22h,Cafe:Moustache,Dance oriental
+Aida,Njima,33,Tickets match,Matin:10h-12h,Cafe:Twins,Developpement personnel
+Houda,Ben Guiza,50,Montre,Apres-midi:15h-18h,Le Bowling Lac,Photographie
+Farah,Abid,65,Notebook,Soir:22h-00h,Restaurant:Dar Fatma,Photographie
+Jaafar,Dridi,47,Tickets match,Soir:22h-00h,Restaurant:Dar Fatma,Cuisiner
+Mohamed,Chebbi,46,Boisson:alcool,Matin:10h-12h,Restaurant:Dar Fatma,Lecture
+Gaith,Bondka,59,Articles décoratifs,Matin:8h-10h,Restaurant:Lido,Gaming
+Gaith,Krichen,29,Tickets match,Apres-midi:15h-18h,Parc:Urbain Ennahli,Gaming
+Akrem,Khaldi,48,Cigarette électronique,Soir:18h-22h,Parc:Sidi Bousaid,Volontariat
+Chaher,Salah,63,Tickets match,Soir:22h-00h,Cinema:ABC,Cuisiner
+Ons,Zairi,26,Cigarettes,Matin:10h-12h,Bar:Le Carpe Diem,Football
+Nour,Gamoudi,39,Tickets film,Apres-midi:15h-18h,Boutiques,Cuisiner
+Aymen,Abid,28,T-shirt,Matin:8h-10h,Association:Croissant Rouge,Gaming
+Nour,Salah,18,Fast food,Apres-midi:12h-15h,Cafe:Evasion,Lecture
+Samir,Ben Guiza,53,Cigarette électronique,Apres-midi:15h-18h,Hotel:Marina palace,Skydiving
+Asma,Smitri,47,Notebook,Apres-midi:12h-15h,Bar:Yuka,Cuisiner
+Zaineb,Maiza,65,Livre:Roman,Soir:22h-00h,Cinema:ABC,Astronomie
+Samir,Tawfik,59,Cigarette électronique,Apres-midi:15h-18h,Hotel:Marina palace,Cuisiner
+Safa,Slim,49,Articles décoratifs,Soir:22h-00h,Cafe:The Diesel,Skydiving
+Ilyes,Maiza,27,Tickets film,Soir:18h-22h,Cafe:Evasion,Volontariat
+Salem,Guenenna,33,Parfum,Apres-midi:12h-15h,Restaurant:Lido,Voyager
+Nour,Jelassi,18,Tickets match,Matin:10h-12h,Bar:Yuka,Hiking
+Sihem,Cherif,47,Parfum,Matin:8h-10h,Cinema:ABC,Jardinage

@@ -1,0 +1,14 @@
+import csv
+import random
+
+with open('mydataset.csv','w',newline='') as f:
+    file=csv.writer(f)
+    file.writerow(['Name','LastName','Age','Consumption','Activity timing','Places frequented','Interest'])
+    for i in range (1,1000) :
+        LastName=['Ibrahim','Mejri','Guenenna','Tawfik','Khaldi','Smitri','Snoussi','Jelassi','Krichen','Slim','Salah','Ben Youssef','Njima','Atay','Dammak','Belhaj','Ghorbel','Cherif','Sferi','Bondka','Hasnaoui','Guesmi','Ben Guiza','Maiza','Chebbi','Abid','Gamoudi','Dridi','Maatoug','Gader','Ben Marzouk','Hedi','Chakroun','Naouali','Zairi','Ridha']
+        Name=['Asma','Ahmed','Chaher','Dhia','Amin','Amal','Salem','Ilyes','Nour','Houda','Ala','Mostfa','Sihem','Adam','Heni','Aida','Samir','Iheb','Foued','Houssem','Saif','Oussama','Nahla','Oumaima','Akrem','Mohamed','Zaineb','Taha','Ali','Farah','Chaima','Safa','Walid','Montassar','Jaafar','Amina','Gaith','Ibtissem','Ons','Soumaya','Aymen']
+        Interest=['Hiking','Lecture','Football','Cuisiner','Gaming','Astronomie','Dance classique','Dance oriental','Jardinage','Fashion','Voyager','Politique','Cinema','Musique','Volontariat','Developpement personnel','Skydiving','Peinture','Photographie']
+        Lfreq=['Cafe:Evasion','Cafe:Cubana Latino','Bibliotheque:Publique Bardo','Le Bowling Lac','Bibliotheque:Publique El Ghazela','Cafe:Moustache','Stade:Rades','Cafe:Little Sarrajine','Cafe:Brooklyn','Cafe:Red Light','Cafe:Twins','Cafe:Casa del gelato','Cafe:Mio mondo','Cafe:The Diesel','Cafe:High Square','Restaurant:THE FIRST','Restaurant:Lido','Restaurant:Dar Fatma','Restaurant:La Palette','Restaurant:La Tavolata','Restaurant:The Bamboo','Theatre:El Teatro','Theatre:Theatre municipal de Tunis','Cinema:Le Colisée','Cinema:ABC','Cinema:Amicar Hannibal','Bar:Le Carpe Diem','Bar:Yuka','Bar:Le duplex','Parc:Jardin Japonais','Parc:Sidi Bousaid','Parc:Urbain Ennahli','Parc:National Boukornine','Salle de jeux:Gamers Club','Club:Bibliophiles tunisiens','Association:Croissant Rouge','Musée:Bardo','Marché central','Hotel:Marina palace','Hotel:Hotel Du Parc','Hotel:El Mouradi','Boutiques','Hopital:mélitaire','Aereport']
+        Hor=['Matin:8h-10h','Matin:10h-12h','Apres-midi:12h-15h','Apres-midi:15h-18h','Soir:18h-22h','Soir:22h-00h']
+        habits=['Boisson:Soda','Boisson:alcool','T-shirt','Basket','Livre:Roman','Jeux video','Fast food','Cigarettes','Produits cosmetiques','Notebook','Parfum','Tickets film','Tickets match','Lunettes de soleil','Montre','Cigarette électronique','Casque','Sac à dos','Articles décoratifs']
+        file.writerow([random.choice(Name),random.choice(LastName),random.randint(17,65),random.choice(habits),random.choice(Hor),random.choice(Lfreq),random.choice(Interest)])
