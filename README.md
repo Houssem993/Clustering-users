@@ -6,3 +6,9 @@ Given a csv file that contains information about users , the code will try to te
 ## to start
 To use Kmeans clustering , we need to work with numerical data.
 If you are using categorical data -which is my case here- consider converting them into numerical data with the function I defined in the code.
+
+In the file 
+```
+generate-data.py
+```
+I've generated random combinations of words for testing. 
